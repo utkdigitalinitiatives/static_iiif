@@ -18960,6 +18960,83 @@
                 "value": "Studienbuch - Concert Program - October 12, 1919"
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1616,360,1488,1888"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - October 19, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=3536,384,2496,2096"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - October 26, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1360,2464,2000,1584"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 2, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=3600,2552,2384,1744"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 9, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1400,4432,2528,2144"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 16, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=3992,4432,1824,2080"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/7",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 23, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1400,6584,2288,1488"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/8",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 30, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=3864,6584,1904,1472"
             }
           ]
         }
