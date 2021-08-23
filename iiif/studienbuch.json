@@ -18943,6 +18943,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 478",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - October 12, 1919"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1616,360,1488,1888"
+            }
+          ]
+        }
       ]
     },
     {
