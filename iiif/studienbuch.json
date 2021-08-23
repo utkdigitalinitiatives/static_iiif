@@ -19235,6 +19235,103 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479"
             }
+          ],
+          "annotations" : [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations",
+              "type": "AnnotationPage",
+              "label": "Studienbuch: page 480",
+              "items": [
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/1",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - February 29, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=1392,288,2472,1528"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/2",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - March 7, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=3936,232,2056,1856"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/3",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - March 14, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=1428,2088,2344,1336"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/4",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - March 21, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=3996,2088,1864,1208"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/5",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - March 28, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=1404,3460,2416,1464"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/6",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - April 4, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=3908,3388,2064,1456"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/7",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - April 11, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=1540,5056,2088,1512"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/8",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Concert Program - April 18, 1920"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479#xywh=3860,5060,2056,1624"
+                }
+              ]
+            }
           ]
         }
       ]
