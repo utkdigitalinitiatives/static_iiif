@@ -19509,6 +19509,81 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 482",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - November 21, 1920"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=1536,296,2448,1936"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - December 5, 1920"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=3928,328,2128,2976"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - January 16, 1921"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=1672,3024,2752,2560"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - January 30, 1921"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=4416,3312,1696,2176"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/5",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - February 13, 1921"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=1584,5728,2560,2256"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/6",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Concert Program - February 20, 1921"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481#xywh=4168,5672,1968,2400"
+            }
+          ]
+        }
       ]
     },
     {
