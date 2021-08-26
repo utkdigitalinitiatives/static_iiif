@@ -264,25 +264,25 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1"
             }
-          ],
-          "annotations": [
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch",
+          "items": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
-              "type": "AnnotationPage",
-              "label": "Studienbuch",
-              "items": [
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "FragmentSelector",
-                    "language": "en",
-                    "value": "Studienbuch - Inside cover"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
-                }
-              ]
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch - Inside cover"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
             }
           ]
         }
