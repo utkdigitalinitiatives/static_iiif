@@ -1,0 +1,103 @@
+{
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/static/iiif/galston_san_francisco_call_1912.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The San Francisco call. [volume], December 20, 1912, Page 5, Image 5"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Gropius & Schmieden , Gewandhaus, Leipzig: Ansicht. Foto auf Karton, 13,8 x 20,1 cm (inkl. Scanrand). Architekturmuseum der Technischen Universität Berlin Inv. Nr. F 7544."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "December 20, 1912"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Source"
+        ]
+      },
+      "value": {
+        "en": [
+          "https://chroniclingamerica.loc.gov/lccn/sn85066387/1912-12-20/ed-1/seq-5/",
+          "University of California, Riverside; Riverside, CA"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "The San Francisco call. [volume] (San Francisco [Calif.]), 20 Dec. 1912. Chronicling America: Historic American Newspapers. Lib. of Congress."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://chroniclingamerica.loc.gov/iiif/2/curiv_elderwood_ver02%2Fdata%2Fsn85066387%2F00280768480%2F1912122001%2F0097.jp2/full/200,200/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digital.lib.utk.edu/static/iiif/galston_san_francisco_call_1912/canvas",
+      "type": "Canvas",
+      "width": 7039,
+      "height": 9543,
+      "items": [
+        {
+          "id": "https://digital.lib.utk.edu/static/iiif/galston_san_francisco_call_1912/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "id": "https://digital.lib.utk.edu/static/iiif/galston_san_francisco_call_1912/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https://chroniclingamerica.loc.gov/iiif/2/curiv_elderwood_ver02%2Fdata%2Fsn85066387%2F00280768480%2F1912122001%2F0097.jp2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 7039,
+                  "height": 9543,
+                  "format": "image/jpeg",
+                  "service": {
+                    "@id": "https://chroniclingamerica.loc.gov/iiif/2/curiv_elderwood_ver02%2Fdata%2Fsn85066387%2F00280768480%2F1912122001%2F0097.jp2",
+                    "@type": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level1.json"
+                  }
+                }
+              ],
+              "target": "https://digital.lib.utk.edu/static/iiif/galston_san_francisco_call_1912/canvas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
