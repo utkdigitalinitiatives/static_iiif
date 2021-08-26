@@ -20245,47 +20245,47 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498"
             }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations",
-          "type": "AnnotationPage",
-          "label": "Studienbuch",
-          "items": [
+          ],
+          "annotations": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/1",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "FragmentSelector",
-                "language": "en",
-                "value": "Studienbuch - Spine title"
-              },
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1104,0,4184,4000"
-            },
-            {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/2",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "FragmentSelector",
-                "language": "en",
-                "value": "Studienbuch - Spine detail"
-              },
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1600,6352,3100,1700"
-            },
-            {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/3",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "FragmentSelector",
-                "language": "en",
-                "value": "Studienbuch - Spine note, Extra ill copy"
-              },
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=2464,7352,1372,776"
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations",
+              "type": "AnnotationPage",
+              "label": "Studienbuch",
+              "items": [
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/1",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Spine title"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1104,0,4184,4000"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/2",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Spine detail"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1600,6352,3100,1700"
+                },
+                {
+                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/3",
+                  "type": "Annotation",
+                  "motivation": "commenting",
+                  "body": {
+                    "type": "FragmentSelector",
+                    "language": "en",
+                    "value": "Studienbuch - Spine note, Extra ill copy"
+                  },
+                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=2464,7352,1372,776"
+                }
+              ]
             }
           ]
         }
