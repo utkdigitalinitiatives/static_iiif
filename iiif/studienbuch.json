@@ -6421,6 +6421,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 158",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Handwritten note in Chopin section"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1544,5816,4464,624"
+            }
+          ]
+        }
       ]
     },
     {
