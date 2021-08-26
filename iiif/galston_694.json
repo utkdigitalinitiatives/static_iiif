@@ -1,0 +1,226 @@
+{
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Photograph of Gottfried Galston in the Wilcox & White recording studio"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Photograph of Gottfried Galston sitting at a recording piano in the Wilcox and White recording studio above the company’s piano/organ factory in Meridien, Connecticut. The piano was used to record the Artrio-Angelus and Voltem rolls for the Wilcox & White player pianos and organs. A handwritten note on the reverse dates this photograph to 1912, which coincides with Galston’s U.S. tour. The photograph is inscribed “With best wishes for a Continental Success, F. C. White & P.K. Wilcox” - probably the two other men in the photograph. Note the photograph of Galston on the wall behind him."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1912",
+          "1912"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Form"
+        ]
+      },
+      "value": {
+        "en": [
+          "photographs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "Portraits, Group",
+          "Musicians",
+          "Sound studios",
+          "Piano"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Coverage"
+        ]
+      },
+      "value": {
+        "en": [
+          "Meriden"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publication Identifier"
+        ]
+      },
+      "value": {
+        "en": []
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/UND/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.lib.utk.edu/about/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.lib.utk.edu/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A694~datastream~OBJ/info.json",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas",
+      "type": "Canvas",
+      "width": 6619,
+      "height": 5152,
+      "items": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A694~datastream~OBJ/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 6619,
+                  "height": 5152,
+                  "format": "image/jpeg",
+                  "service": {
+                    "@id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A694~datastream~OBJ",
+                    "@type": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                }
+              ],
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "@context": "https://iiif.io/api/presentation/3/context.json",
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/annotations",
+          "type": "AnnotationPage",
+          "label": "University of Tennessee Libraries Homepage",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Two pictures hang on the wall as colleagues listen and watch Galston play. "
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas#xywh=1702,1024,2310,1392"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "The stool that Tobias A. Bauer sits on was recovered from a fire in August 1928."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas#xywh=1039,3032,2374,1744"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/annotations/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Penned by his friend and colleague Tobias A. Bauer, this message states,  \"Ut facilisis, lectus sed lacinia pharetra, lacus ex congue sem.\""
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas#xywh=1574,4232,4820,720"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/annotations/4",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "A persian cat of unknown ownership can be seen in this reflection."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas#xywh=4228,2000,1846,1424"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

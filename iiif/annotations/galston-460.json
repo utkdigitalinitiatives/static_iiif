@@ -1,0 +1,521 @@
+{
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "\"Liszt\" - so sprach einmal zu mir der achtzigjahrige Grossherzog Karl Alexander von Weimar - \"war wie ein Furst sein sollte.\"\nEr war Furst und Kunstler und schon bei Lebzeiten eine Legende.\nFurstlich waren seine Gesinnung, seine Erscheinung u. Haltung; -\nZum Kunstler stempelte ihn die glucklichste Vereinigung von Begabung, Intelligenz, Beharrlichkeit und Idealismus. Als solcher besass er alle Kennzeichen der Grossen: die Universalitat seiner Kunst, die drei Schaffensperioden, das Suchende bis zuletzt;-\ndas Rathselhafte seiner Fahigkeiten, die taschensspielerische Art wie er sie seines Darbietens, die magnetischen Wirkungen seiner Kunste verliehen Liszt das \"Legendarische\".\nSeine Ziele sind: Aufstieg, Veredelung und Befreiung. Nur ein Hoher strebt zum Aufstieg, nur ein Edler nach Veredelung, nur ein Freiherr kann Freiheiten einraumen.&nbsp;\nEr ist das Symbol des Clavieres geworden, das er in den Furstenstand erhob, damit er seiner selbst wurdig werde.\n=======\n\"Liszt\" - the 80 year old Archduke of Weimar Karl Alexander once said to me - \"was a prince as one should be.\"\nHe was a prince and an artist and a legend already while he was alive.\nHis attitude, his appearance and his manner were princely.\nThe most fortunate fusion of talent, intelligence, persistence and idealism marked him as an artist. As one he possessed all the earmarks of the the great: the universality of his art, his three creative periods, the searching quality to the very end;-\nthe puzzling quality of his capabilities, the magical nature of his performance, the magnetic effects of his artistic creations endowed Liszt with \"legendary quality\"\nHis goals are ascent, ennoblement and liberation. Only a grand person strives for ascent, only a noble person for ennoblement, only a liberated noble can grant liberation.\nHe has become the symbol of the piano that he elevated to princely status, so that he might become worthy of himself.&nbsp;",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>\"Liszt\" - so sprach einmal zu mir der achtzigjahrige Grossherzog Karl Alexander von Weimar - \"war wie ein Furst sein sollte.\"</p>\n<p>Er war Furst und Kunstler und schon bei Lebzeiten eine Legende.</p>\n<p>Furstlich waren seine Gesinnung, seine Erscheinung u. Haltung; -</p>\n<p>Zum Kunstler stempelte ihn die glucklichste Vereinigung von Begabung, Intelligenz, Beharrlichkeit und Idealismus. Als solcher besass er alle Kennzeichen der Grossen: die Universalitat seiner Kunst, die drei Schaffensperioden, das Suchende bis zuletzt;-</p>\n<p>das Rathselhafte seiner Fahigkeiten, die taschensspielerische Art wie er sie seines Darbietens, die magnetischen Wirkungen seiner Kunste verliehen Liszt das \"Legendarische\".</p>\n<p>Seine Ziele sind: Aufstieg, Veredelung und Befreiung. Nur ein Hoher strebt zum Aufstieg, nur ein Edler nach Veredelung, nur ein Freiherr kann Freiheiten einraumen.&nbsp;</p>\n<p>Er ist das Symbol des Clavieres geworden, das er in den Furstenstand erhob, damit er seiner selbst wurdig werde.</p>\n<p>=======</p>\n<p>\"Liszt\" - the 80 year old Archduke of Weimar Karl Alexander once said to me - \"was a prince as one should be.\"</p>\n<p>He was a prince and an artist and a legend already while he was alive.</p>\n<p>His attitude, his appearance and his manner were princely.</p>\n<p>The most fortunate fusion of talent, intelligence, persistence and idealism marked him as an artist. As one he possessed all the earmarks of the the great: the universality of his art, his three creative periods, the searching quality to the very end;-</p>\n<p>the puzzling quality of his capabilities, the magical nature of his performance, the magnetic effects of his artistic creations endowed Liszt with \"legendary quality\"</p>\n<p>His goals are ascent, ennoblement and liberation. Only a grand person strives for ascent, only a noble person for ennoblement, only a liberated noble can grant liberation.</p>\n<p>He has become the symbol of the piano that he elevated to princely status, so that he might become worthy of himself.&nbsp;</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-04-22T20:35:59",
+            "@id": "http://sas.gdmrdigital.com/annotation/1619123759263",
+            "dcterms:modified": "2021-04-22T20:35:59",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "http://24c294b2-0dcc-4f10-a4d4-2295689227e0"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=265,266,4739,6705"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M265.2892,266.4878h2369.44599v0h2369.44599v3352.30314v3352.30314h-2369.44599h-2369.44599v-3352.30314z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_327f1320-d901-440c-afbd-c1df032a6899\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://11db86e7-6414-4fda-bcb8-2f6709a80129"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "This \"aphorism\" on Liszt, written by Ferruccio Busoni, appears in the appendices of the Studienbuch&nbsp;(page 210).&nbsp;",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>This \"aphorism\" on Liszt, written by Ferruccio Busoni, appears in the appendices of the <em>Studienbuch</em>&nbsp;(page 210).&nbsp;</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-12T14:43:37",
+            "@id": "http://sas.gdmrdigital.com/annotation/1620830617733",
+            "dcterms:modified": "2021-05-12T14:43:37",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=952,855,830,285"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M952.03182,854.70286h414.87182v0h414.87182v142.58773v142.58773h-414.87182h-414.87182v-142.58773z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_26508bf0-cf6a-4c5a-ab44-dfd18ca49585\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://11db86e7-6414-4fda-bcb8-2f6709a80129"
+                }
+            ]
+        }
+    ],
+    "@id": "http://sas.gdmrdigital.com/annotation/list/2ca5953fdc1891e5a98f773f2e22111e.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}

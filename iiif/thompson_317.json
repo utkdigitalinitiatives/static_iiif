@@ -1,0 +1,215 @@
+{
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The Chimney Tops"
+    ]
+  },
+  "summary": {
+    "en": [
+      "There are few, if any, more thrilling climbs in the Great Smoky Mountains National Park than the short but extremely rough ascent of the Chimney Tops, seen here.  These jagged peaks rise precipitously above the west prong of Little Little Pigeon River and the Newfound Gap Highway. For about five miles along this spectacular motor road the motorist is looking up to these peaks. Then, just before reaching the Tennessee-North Carolina state line at Newfound Gap, he may look down upon them. There is no graded trail or road up to the Chimney Tops, this being one of the peaks left for the enjoyment of the increasing numbers of hikers who like to \"rough it.\""
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Role Term"
+        ]
+      },
+      "value": {
+        "en": [
+          "Thompson Brothers Commercial Photographers"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1902-1960",
+          "1902",
+          "1960"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Form"
+        ]
+      },
+      "value": {
+        "en": [
+          "photographs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      },
+      "value": {
+        "en": [
+          "Bodies of water"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Coverage"
+        ]
+      },
+      "value": {
+        "en": [
+          "Chimney Tops",
+          "Great Smoky Mountains (N.C. and Tenn.)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Publication Identifier"
+        ]
+      },
+      "value": {
+        "en": []
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.lib.utk.edu/about/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.lib.utk.edu/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~thompson%3A317~datastream~JP2/info.json",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 200,
+      "height": 200
+    }
+  ],
+  "items": [
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1",
+      "type": "Canvas",
+      "width": 5386,
+      "height": 7059,
+      "items": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~thompson%3A317~datastream~JP2/full/full/0/default.jpg",
+                  "type": "Image",
+                  "width": 5386,
+                  "height": 7059,
+                  "format": "image/jpeg",
+                  "service": {
+                    "@id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~thompson%3A317~datastream~JP2",
+                    "@type": "http://iiif.io/api/image/2/context.json",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                }
+              ],
+              "target": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "@context": "https://iiif.io/api/presentation/3/context.json",
+          "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1/annotations/1",
+          "type": "AnnotationPage",
+          "label": "University of Tennessee Libraries Homepage",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1/annotations/1",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Harley Creek seen here has sourced headwaters in the peak of the Chimney Tops."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1#xywh=800,3000,3500,2500"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1/annotations/2",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "A view of the Chimney Tops from the west."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/thompson/317/canvas/1#xywh=1800,850,2000,1000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

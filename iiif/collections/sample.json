@@ -1,0 +1,54 @@
+{
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/static/iiif/collections/sample.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Rising from the Ashes"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/pcard00/106667",
+      "type": "Manifest",
+      "label": "pcard00:106667"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/8",
+      "type": "Manifest",
+      "label": "rfta:8"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/118",
+      "type": "Manifest",
+      "label": "rfta:118"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/75",
+      "type": "Manifest",
+      "label": "rfta:75"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/76",
+      "type": "Manifest",
+      "label": "rfta:76"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/50",
+      "type": "Manifest",
+      "label": "rfta:50"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/51",
+      "type": "Manifest",
+      "label": "rfta:51"
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/105",
+      "type": "Manifest",
+      "label": "rfta:105"
+    }
+  ]
+}

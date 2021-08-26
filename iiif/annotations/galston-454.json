@@ -1,0 +1,2063 @@
+{
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 34\n31 October 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 34</p>\n<p>31 October 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:39:47",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017587102",
+            "dcterms:modified": "2021-05-14T18:39:47",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2626,6415,2250,1651"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2626.30769,6415.23077h1125.10256v0h1125.10256v825.61538v825.61538h-1125.10256h-1125.10256v-825.61538z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aa7e3bcd-5f89-4cbb-84e0-0696cdb790fc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 29\n9 May 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 29</p>\n<p>9 May 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:37:18",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017438767",
+            "dcterms:modified": "2021-05-14T18:37:18",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=335,2525,2204,2552"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M334.91244,2525.16956h1102.10375v0h1102.10375v1276.12877v1276.12877h-1102.10375h-1102.10375v-1276.12877z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4cb9b0f6-a79d-420b-9349-429fa498c0a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 33\n10 October 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 33</p>\n<p>10 October 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:39:25",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017565066",
+            "dcterms:modified": "2021-05-14T18:39:25",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=395,6407,2193,1700"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M394.51282,6407.02564h1096.38462v0h1096.38462v850.23077v850.23077h-1096.38462h-1096.38462v-850.23077z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_01a0a315-3a77-4cef-bc6b-3504e069f823\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 31\n12 September 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 31</p>\n<p>12 September 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:38:03",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017483255",
+            "dcterms:modified": "2021-05-14T18:38:03",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=341,5096,2192,1287"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M341.24062,5096.23694h1095.77557v0h1095.77557v643.31052v643.31052h-1095.77557h-1095.77557v-643.31052z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b654aeaa-937f-45cc-a7f3-f6d6d7093ebf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 28&nbsp;\n2 May 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 28&nbsp;</p>\n<p>2 May 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:36:49",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017409100",
+            "dcterms:modified": "2021-05-14T18:36:49",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2638,276,2116,2046"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2638.37086,276.44003h1057.80648v0h1057.80648v1023.00147v1023.00147h-1057.80648h-1057.80648v-1023.00147z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f9aba03e-4f76-4e03-b3f2-6ef31587cf07\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 27\n25 April 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 27</p>\n<p>25 April 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:36:28",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017388647",
+            "dcterms:modified": "2021-05-14T18:36:28",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=417,278,2173,2061"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M417.17881,2339.42752h1086.2833v0h1086.2833v-1030.49375v-1030.49375h-1086.2833h-1086.2833v1030.49375z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_287df753-84ee-41c3-aab1-3585a5eb2514\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 30\n16 May 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 30</p>\n<p>16 May 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:37:37",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017457654",
+            "dcterms:modified": "2021-05-14T18:37:37",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2588,2494,2318,2502"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2587.7454,2493.52865h1159.0574v0h1159.0574v1250.81604v1250.81604h-1159.0574h-1159.0574v-1250.81604z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d356088a-8005-4dc3-a190-c43fc602a9a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        },
+        {
+            "resource": [
+                {
+                    "http://dev.llgc.org.uk/sas/full_text": "Concert 32\n26 September 1920",
+                    "@type": "dctypes:Text",
+                    "format": "text/html",
+                    "chars": "<p>Concert 32</p>\n<p>26 September 1920</p>"
+                }
+            ],
+            "@type": "oa:Annotation",
+            "motivation": [
+                "oa:commenting"
+            ],
+            "dcterms:created": "2021-05-14T18:38:30",
+            "@id": "http://sas.gdmrdigital.com/annotation/1621017510159",
+            "dcterms:modified": "2021-05-14T18:38:30",
+            "@context": [
+                {
+                    "viewingDirection": {
+                        "@type": "@id",
+                        "@id": "sc:viewingDirection"
+                    },
+                    "metadata": {
+                        "@type": "@id",
+                        "@id": "sc:metadataLabels",
+                        "@container": "@list"
+                    },
+                    "language": {
+                        "@id": "dc:language"
+                    },
+                    "iiif": "http://iiif.io/api/image/2#",
+                    "individuals": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:individualsHint"
+                    },
+                    "collections": {
+                        "@type": "@id",
+                        "@id": "sc:hasCollections",
+                        "@container": "@list"
+                    },
+                    "continuous": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:continuousHint"
+                    },
+                    "dcterms": "http://purl.org/dc/terms/",
+                    "logo": {
+                        "@type": "@id",
+                        "@id": "foaf:logo"
+                    },
+                    "foaf": "http://xmlns.com/foaf/0.1/",
+                    "height": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:height"
+                    },
+                    "dctypes": "http://purl.org/dc/dcmitype/",
+                    "stylesheet": {
+                        "@type": "@id",
+                        "@id": "oa:styledBy"
+                    },
+                    "thumbnail": {
+                        "@type": "@id",
+                        "@id": "foaf:thumbnail"
+                    },
+                    "images": {
+                        "@type": "@id",
+                        "@id": "sc:hasImageAnnotations",
+                        "@container": "@list"
+                    },
+                    "item": {
+                        "@type": "@id",
+                        "@id": "oa:item"
+                    },
+                    "svcs": "http://rdfs.org/sioc/services#",
+                    "bottom-to-top": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:bottomToTopDirection"
+                    },
+                    "resource": {
+                        "@type": "@id",
+                        "@id": "oa:hasBody",
+                        "@container": "@set"
+                    },
+                    "profile": {
+                        "@type": "@id",
+                        "@id": "dcterms:conformsTo"
+                    },
+                    "format": {
+                        "@id": "dc:format"
+                    },
+                    "non-paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:nonPagedHint"
+                    },
+                    "encoding": {
+                        "@id": "cnt:characterEncoding"
+                    },
+                    "license": {
+                        "@type": "@id",
+                        "@id": "dcterms:license"
+                    },
+                    "startCanvas": {
+                        "@type": "@id",
+                        "@id": "sc:hasStartCanvas"
+                    },
+                    "canvases": {
+                        "@type": "@id",
+                        "@id": "sc:hasCanvases",
+                        "@container": "@list"
+                    },
+                    "left-to-right": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:leftToRightDirection"
+                    },
+                    "style": {
+                        "@id": "oa:styleClass"
+                    },
+                    "exif": "http://www.w3.org/2003/12/exif/ns#",
+                    "full": {
+                        "@type": "@id",
+                        "@id": "oa:hasSource"
+                    },
+                    "top-to-bottom": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:topToBottomDirection"
+                    },
+                    "ranges": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "motivation": {
+                        "@type": "@id",
+                        "@id": "oa:motivatedBy",
+                        "@container": "@set"
+                    },
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "description": {
+                        "@id": "dc:description"
+                    },
+                    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+                    "sequences": {
+                        "@type": "@id",
+                        "@id": "sc:hasSequences",
+                        "@container": "@list"
+                    },
+                    "seeAlso": {
+                        "@type": "@id",
+                        "@id": "foaf:page"
+                    },
+                    "sc": "http://iiif.io/api/presentation/2#",
+                    "oa": "http://www.w3.org/ns/oa#",
+                    "default": {
+                        "@type": "@id",
+                        "@id": "oa:default"
+                    },
+                    "related": {
+                        "@type": "@id",
+                        "@id": "dcterms:relation"
+                    },
+                    "top": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:topHint"
+                    },
+                    "selector": {
+                        "@type": "@id",
+                        "@id": "oa:hasSelector"
+                    },
+                    "value": {
+                        "@id": "rdf:value"
+                    },
+                    "on": {
+                        "@type": "@id",
+                        "@id": "oa:hasTarget"
+                    },
+                    "viewingHint": {
+                        "@type": "@id",
+                        "@id": "sc:viewingHint"
+                    },
+                    "paged": {
+                        "@type": "sc:ViewingHint",
+                        "@id": "sc:pagedHint"
+                    },
+                    "within": {
+                        "@type": "@id",
+                        "@id": "dcterms:isPartOf"
+                    },
+                    "cnt": "http://www.w3.org/2011/content#",
+                    "structures": {
+                        "@type": "@id",
+                        "@id": "sc:hasRanges",
+                        "@container": "@list"
+                    },
+                    "resources": {
+                        "@type": "@id",
+                        "@id": "sc:hasAnnotations",
+                        "@container": "@list"
+                    },
+                    "label": {
+                        "@id": "rdfs:label"
+                    },
+                    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "service": {
+                        "@type": "@id",
+                        "@id": "svcs:has_service"
+                    },
+                    "bytes": {
+                        "@id": "cnt:bytes"
+                    },
+                    "manifests": {
+                        "@type": "@id",
+                        "@id": "sc:hasManifests",
+                        "@container": "@list"
+                    },
+                    "width": {
+                        "@type": "xsd:integer",
+                        "@id": "exif:width"
+                    },
+                    "attribution": {
+                        "@id": "sc:attributionLabel"
+                    },
+                    "right-to-left": {
+                        "@type": "sc:ViewingDirection",
+                        "@id": "sc:rightToLeftDirection"
+                    },
+                    "otherContent": {
+                        "@type": "@id",
+                        "@id": "sc:hasLists",
+                        "@container": "@list"
+                    },
+                    "chars": {
+                        "@id": "cnt:chars"
+                    },
+                    "dc": "http://purl.org/dc/elements/1.1/"
+                }
+            ],
+            "on": [
+                {
+                    "within": {
+                        "@type": "sc:Manifest",
+                        "@id": "https://digital.lib.utk.edu/static/iiif/studienbuch.json"
+                    },
+                    "@type": "oa:SpecificResource",
+                    "selector": {
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2562,5046,2356,1432"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2562.43267,5045.61148h1178.04194v0h1178.04194v716.08462v716.08462h-1178.04194h-1178.04194v-716.08462z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2ad1ff15-5b1a-4ff6-8e32-20189a59ac0c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        },
+                        "@type": "oa:Choice"
+                    },
+                    "full": "http://ad22714f-9b42-4d70-b245-b1a3d89fca49"
+                }
+            ]
+        }
+    ],
+    "@id": "http://sas.gdmrdigital.com/annotation/list/06367e4020e7aaac24019177bee9fa2e.json",
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
