@@ -18646,6 +18646,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 468",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "This tailpiece is printed at the end of the Studienbuch, and also appears in other publications by Bruno Cassirer."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=3568,3088,1408,1696"
+            }
+          ]
+        }
       ]
     },
     {
