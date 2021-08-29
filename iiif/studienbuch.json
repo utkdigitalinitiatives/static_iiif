@@ -8581,6 +8581,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/210/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 211",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/210/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "The piece appears on page 210 in the Studienbuch's Appendices (Anhang). It was also published in Ferruccio Busoni's 1922 book, Von der Einheit der Musik (Of the Unity of Music). and was reportedly included in Busoni's Zurich program of April 1916."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/210#xywh=272,1328,3712,5440"
+            }
+          ]
+        }
       ]
     },
     {
