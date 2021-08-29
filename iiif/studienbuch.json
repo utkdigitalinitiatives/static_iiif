@@ -6435,6 +6435,17 @@
               "body": {
                 "type": "FragmentSelector",
                 "language": "en",
+                "value": "Galston makes four editorial changes in the Chopin section."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1312,288,4640,7712"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
                 "value": "Handwritten note in Chopin section"
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1544,5816,4464,624"
