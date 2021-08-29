@@ -18716,6 +18716,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 469",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Aphorism on Liszt - handwritten by Ferruccio Busoni"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468#xywh=928,656,4064,7136"
+            }
+          ]
+        }
       ]
     },
     {
