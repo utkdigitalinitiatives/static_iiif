@@ -18662,7 +18662,18 @@
                 "language": "en",
                 "value": "This tailpiece is printed at the end of the Studienbuch, and also appears in other publications by Bruno Cassirer."
               },
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=3568,3088,1408,1696"
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=1664,1120,4096,6272"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "The motif depicts a man with a walking stick and carrying a basket on his back."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=3880,3360,768,1136"
             }
           ]
         }
