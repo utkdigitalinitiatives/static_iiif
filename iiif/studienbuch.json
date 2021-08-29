@@ -6608,6 +6608,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 162",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "x Vor-Parallestudium (Transponieren durch mehrere Tonarten) zum Finale des hmoll Sonate!\n=======\nx Pre-parallel study (transposition through several keys) to the final of the b-minor sonata!"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161#xywh=1632,2288,4160,1424"
+            }
+          ]
+        }
       ]
     },
     {
