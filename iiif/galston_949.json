@@ -196,6 +196,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 260",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Godowsky's suggestion appears in the table on page 118 of the Studienbuch."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0#xywh=1624,248,4944,3472"
+            }
+          ]
+        }
       ]
     }
   ],
