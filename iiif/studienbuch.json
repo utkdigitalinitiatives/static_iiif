@@ -17710,6 +17710,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443/annotations",
+          "type": "AnnotationPage",
+          "label": "Studienbuch: page 444",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "FragmentSelector",
+                "language": "en",
+                "value": "Studienbuch printed page 210 (galston:242)"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443#xywh=1920,1056,4192,6208"
+            }
+          ]
+        }
       ]
     },
     {
