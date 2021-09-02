@@ -201,7 +201,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/1",
@@ -271,7 +270,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
@@ -525,7 +523,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/7/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/7/annotations/1",
@@ -662,7 +659,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10/annotations/1",
@@ -6426,7 +6422,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 158",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations/1",
@@ -6613,7 +6608,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 162",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161/annotations/1",
@@ -6751,7 +6745,6 @@
           {
             "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations",
             "type": "AnnotationPage",
-            "label": "Studienbuch: page 165",
             "items": [
               {
                 "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations/1",
@@ -6811,7 +6804,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/165/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 166",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/165/annotations/1",
@@ -10536,7 +10528,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260/annotations/1",
@@ -17715,7 +17706,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 444",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443/annotations/1",
@@ -18671,7 +18661,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 468",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467/annotations/1",
@@ -18741,7 +18730,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 469",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468/annotations/1",
@@ -19112,7 +19100,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 478",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/1",
@@ -19248,7 +19235,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/478/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 479",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/478/annotations/1",
@@ -19406,7 +19392,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 480",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/1",
@@ -19542,7 +19527,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/480/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 481",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/480/annotations/1",
@@ -19678,7 +19662,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 482",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/1",
@@ -20416,7 +20399,6 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/1",
