@@ -6741,25 +6741,23 @@
         }
       ],
       "annotations": [
-        [
-          {
-            "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations/1",
-                "type": "Annotation",
-                "motivation": "commenting",
-                "body": {
-                  "type": "TextualBody",
-                  "language": "en",
-                  "value": ""
-                },
-                "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164#xywh=320,3488,4256,1248"
-              }
-            ]
-          }
-        ]
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "\"Dieses Studienmaterial mit den Komplexen der Etüde Op 10 No 2 amoll kombinieren. Technische Verwandtschaft\nx x x\n============\nCombine this study material with the issues related to the étude Op 10 No 2 in a-minor. Technical relationship.\nx x x\""
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164#xywh=320,3488,4256,1248"
+            }
+          ]
+        }
       ]
     },
     {
@@ -19388,7 +19386,7 @@
           ]
         }
       ],
-      "annotations" : [
+      "annotations": [
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations",
           "type": "AnnotationPage",
