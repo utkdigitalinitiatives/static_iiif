@@ -207,7 +207,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Front Cover"
               },
@@ -218,7 +218,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Front cover detail"
               },
@@ -276,7 +276,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Inside cover"
               },
@@ -529,7 +529,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Printer's information"
               },
@@ -665,7 +665,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - First Edition"
               },
@@ -676,7 +676,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Publisher's Mark"
               },
@@ -6428,7 +6428,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Galston makes four editorial changes in the Chopin section."
               },
@@ -6439,7 +6439,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Handwritten note in Chopin section"
               },
@@ -6614,7 +6614,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "x Vor-Parallestudium (Transponieren durch mehrere Tonarten) zum Finale des hmoll Sonate!\n=======\nx Pre-parallel study (transposition through several keys) to the final of the b-minor sonata!"
               },
@@ -6751,7 +6751,7 @@
                 "type": "Annotation",
                 "motivation": "commenting",
                 "body": {
-                  "type": "FragmentSelector",
+                  "type": "TextualBody",
                   "language": "en",
                   "value": "Dieses Studienmaterial mit den Komplexen der Etüde Op 10 No 2 amoll kombinieren. Technische Verwandtschaft\nx x x\n============\nCombine this study material with the issues related to the étude Op 10 No 2 in a-minor. Technical relationship.\nx x x"
                 },
@@ -6810,7 +6810,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Die charakteristischen technischen Laufgruppen (z.B. Takte 1-2, 29-32 u.s.w.) zu fortlaufenden Fingerüberungen durch alle 12 Tonarten benützen: Zur Befestigung und Ausbildung des 6 Pianistensinns des Distanzgefühls (in Spannung und Sprung) . \nx x x\n=======\nUse the characteristic technical runs (e.g. measures 1-2, 29-32 etc.) for extended fingering practice through all 12 keys: For the development and establishment of the 6th pianistic sense of distance (in tension and leap).\nx x x"
               },
@@ -10534,7 +10534,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard"
               },
@@ -10545,7 +10545,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard detail"
               },
@@ -10556,7 +10556,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard additional detail"
               },
@@ -17712,7 +17712,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch printed page 210 (galston:242)"
               },
@@ -18667,7 +18667,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "This tailpiece is printed at the end of the Studienbuch, and also appears in other publications by Bruno Cassirer."
               },
@@ -18678,7 +18678,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "The motif depicts a man with a walking stick and carrying a basket on his back."
               },
@@ -18736,7 +18736,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Aphorism on Liszt - handwritten by Ferruccio Busoni"
               },
@@ -19106,7 +19106,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 12, 1919"
               },
@@ -19117,7 +19117,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 19, 1919"
               },
@@ -19128,7 +19128,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 26, 1919"
               },
@@ -19139,7 +19139,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 2, 1919"
               },
@@ -19150,7 +19150,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 9, 1919"
               },
@@ -19161,7 +19161,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 16, 1919"
               },
@@ -19172,7 +19172,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 23, 1919"
               },
@@ -19183,7 +19183,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 30, 1919"
               },
@@ -19241,7 +19241,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 7, 1919"
               },
@@ -19252,7 +19252,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 14, 1919"
               },
@@ -19263,7 +19263,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 4, 1920"
               },
@@ -19274,7 +19274,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 11, 1920"
               },
@@ -19285,7 +19285,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 18, 1920"
               },
@@ -19296,7 +19296,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 25, 1920"
               },
@@ -19307,7 +19307,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 1, 1920"
               },
@@ -19318,7 +19318,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 8, 1920"
               },
@@ -19329,7 +19329,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 15, 1920"
               },
@@ -19340,7 +19340,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 22, 1920"
               },
@@ -19398,7 +19398,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 29, 1920"
               },
@@ -19409,7 +19409,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 7, 1920"
               },
@@ -19420,7 +19420,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 14, 1920"
               },
@@ -19431,7 +19431,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 21, 1920"
               },
@@ -19442,7 +19442,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 28, 1920"
               },
@@ -19453,7 +19453,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 4, 1920"
               },
@@ -19464,7 +19464,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 11, 1920"
               },
@@ -19475,7 +19475,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 18, 1920"
               },
@@ -19533,7 +19533,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 25, 1920"
               },
@@ -19544,7 +19544,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 2, 1920"
               },
@@ -19555,7 +19555,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 9, 1920"
               },
@@ -19566,7 +19566,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 16, 1920"
               },
@@ -19577,7 +19577,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - September 12, 1920"
               },
@@ -19588,7 +19588,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - September 26, 1920"
               },
@@ -19599,7 +19599,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 10, 1920"
               },
@@ -19610,7 +19610,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 31, 1920"
               },
@@ -19668,7 +19668,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 21, 1920"
               },
@@ -19679,7 +19679,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 5, 1920"
               },
@@ -19690,7 +19690,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 16, 1921"
               },
@@ -19701,7 +19701,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 30, 1921"
               },
@@ -19712,7 +19712,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 13, 1921"
               },
@@ -19723,7 +19723,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 20, 1921"
               },
@@ -20405,7 +20405,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine title"
               },
@@ -20416,7 +20416,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine detail"
               },
@@ -20427,7 +20427,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine note, Extra ill copy"
               },
