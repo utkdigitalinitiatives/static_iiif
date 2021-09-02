@@ -194,35 +194,35 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0"
             }
-          ],
-          "annotations": [
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations",
+          "type": "AnnotationPage",
+          "items": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations",
-              "type": "AnnotationPage",
-              "items": [
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/1",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "TextualBody",
-                    "language": "en",
-                    "value": "Studienbuch - Front Cover"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=200,150,5150,8000"
-                },
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/2",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "TextualBody",
-                    "language": "en",
-                    "value": "Studienbuch - Front cover detail"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=2500,0,3000,2500"
-                }
-              ]
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Front Cover"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=200,150,5150,8000"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Front cover detail"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=2500,0,3000,2500"
             }
           ]
         }
@@ -263,24 +263,24 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1"
             }
-          ],
-          "annotations": [
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
-              "type": "AnnotationPage",
-              "items": [
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "TextualBody",
-                    "language": "en",
-                    "value": "Studienbuch - Inside cover"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
-                }
-              ]
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Inside cover"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
             }
           ]
         }
