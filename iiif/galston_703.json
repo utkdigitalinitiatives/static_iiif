@@ -151,14 +151,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/703/canvas/0/annotations",
           "type": "AnnotationPage",
-          "label": "Postcard from Leopold Godowsky to Gottfried Galston, May 30, 1908",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/703/canvas/0/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Postcard from Leopold Godowsky to Gottfried Galston, May 30, 1908"
               },
