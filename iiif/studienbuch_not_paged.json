@@ -194,36 +194,35 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0"
             }
-          ],
-          "annotations": [
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations",
+          "type": "AnnotationPage",
+          "items": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations",
-              "type": "AnnotationPage",
-              "label": "Studienbuch",
-              "items": [
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/1",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "FragmentSelector",
-                    "language": "en",
-                    "value": "Studienbuch - Front Cover"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=200,150,5150,8000"
-                },
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/2",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "FragmentSelector",
-                    "language": "en",
-                    "value": "Studienbuch - Front cover detail"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=2500,0,3000,2500"
-                }
-              ]
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Front Cover"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=200,150,5150,8000"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Front cover detail"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=2500,0,3000,2500"
             }
           ]
         }
@@ -264,25 +263,24 @@
               ],
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1"
             }
-          ],
-          "annotations": [
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
+          "type": "AnnotationPage",
+          "items": [
             {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations",
-              "type": "AnnotationPage",
-              "label": "Studienbuch",
-              "items": [
-                {
-                  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
-                  "type": "Annotation",
-                  "motivation": "commenting",
-                  "body": {
-                    "type": "FragmentSelector",
-                    "language": "en",
-                    "value": "Studienbuch - Inside cover"
-                  },
-                  "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
-                }
-              ]
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Studienbuch - Inside cover"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
             }
           ]
         }
@@ -525,14 +523,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/7/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/7/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Printer's information"
               },
@@ -662,14 +659,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - First Edition"
               },
@@ -680,7 +676,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Publisher's Mark"
               },
@@ -10443,14 +10439,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard"
               },
@@ -10461,7 +10456,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard detail"
               },
@@ -10472,7 +10467,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Godowsky postcard additional detail"
               },
@@ -18948,14 +18943,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 478",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 12, 1919"
               },
@@ -18966,7 +18960,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 19, 1919"
               },
@@ -18977,7 +18971,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 26, 1919"
               },
@@ -18988,7 +18982,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 2, 1919"
               },
@@ -18999,7 +18993,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 9, 1919"
               },
@@ -19010,7 +19004,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 16, 1919"
               },
@@ -19021,7 +19015,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 23, 1919"
               },
@@ -19032,7 +19026,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 30, 1919"
               },
@@ -19084,14 +19078,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/478/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 479",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/478/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 7, 1919"
               },
@@ -19102,7 +19095,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 14, 1919"
               },
@@ -19113,7 +19106,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 4, 1920"
               },
@@ -19124,7 +19117,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 11, 1920"
               },
@@ -19135,7 +19128,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 18, 1920"
               },
@@ -19146,7 +19139,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 25, 1920"
               },
@@ -19157,7 +19150,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 1, 1920"
               },
@@ -19168,7 +19161,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 8, 1920"
               },
@@ -19179,7 +19172,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 15, 1920"
               },
@@ -19190,7 +19183,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 22, 1920"
               },
@@ -19242,14 +19235,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 480",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/479/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 29, 1920"
               },
@@ -19260,7 +19252,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 7, 1920"
               },
@@ -19271,7 +19263,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 14, 1920"
               },
@@ -19282,7 +19274,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 21, 1920"
               },
@@ -19293,7 +19285,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - March 28, 1920"
               },
@@ -19304,7 +19296,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 4, 1920"
               },
@@ -19315,7 +19307,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 11, 1920"
               },
@@ -19326,7 +19318,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 18, 1920"
               },
@@ -19378,14 +19370,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/480/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 481",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/480/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - April 25, 1920"
               },
@@ -19396,7 +19387,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 2, 1920"
               },
@@ -19407,7 +19398,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 9, 1920"
               },
@@ -19418,7 +19409,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - May 16, 1920"
               },
@@ -19429,7 +19420,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - September 12, 1920"
               },
@@ -19440,7 +19431,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - September 26, 1920"
               },
@@ -19451,7 +19442,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 10, 1920"
               },
@@ -19462,7 +19453,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - October 31, 1920"
               },
@@ -19514,14 +19505,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch: page 482",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/481/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - November 21, 1920"
               },
@@ -19532,7 +19522,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - December 5, 1920"
               },
@@ -19543,7 +19533,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 16, 1921"
               },
@@ -19554,7 +19544,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - January 30, 1921"
               },
@@ -19565,7 +19555,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 13, 1921"
               },
@@ -19576,7 +19566,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Concert Program - February 20, 1921"
               },
@@ -20252,14 +20242,13 @@
         {
           "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations",
           "type": "AnnotationPage",
-          "label": "Studienbuch",
           "items": [
             {
               "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498/annotations/1",
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine title"
               },
@@ -20270,7 +20259,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine detail"
               },
@@ -20281,7 +20270,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "FragmentSelector",
+                "type": "TextualBody",
                 "language": "en",
                 "value": "Studienbuch - Spine note, Extra ill copy"
               },
