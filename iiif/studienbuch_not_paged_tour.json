@@ -209,7 +209,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Front Cover"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=200,150,5150,8000"
             },
@@ -220,7 +220,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Front cover detail"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/0#xywh=2500,0,3000,2500"
             }
@@ -278,7 +278,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Inside cover"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/1#xywh=4644,7616,1330,596"
             }
@@ -531,7 +531,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Printer's information"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/7#xywh=2968,5248,2392,1536"
             }
@@ -667,7 +667,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - First Edition"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10#xywh=472,1448,3304,2240"
             },
@@ -678,7 +678,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Publisher's Mark"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/10#xywh=1032,4264,2168,1968"
             }
@@ -6430,7 +6430,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Galston makes four editorial changes in the Chopin section."
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1312,288,4640,7712"
             },
@@ -6441,7 +6441,18 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Handwritten note in Chopin section"
+                "value": "Transcription: \"Im übrigen gilt hier das zur fmoll Etüde (Trois nouvelles études  No 1) Angemerkte (Polyrythmik)"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1544,5816,4464,624"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157/annotations/3",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Translation: \"Otherwise what was noted (polyrhythmic) in regard to the f-minor etude (Trois nouvelles études  No 1 ) holds here.\""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/157#xywh=1544,5816,4464,624"
             }
@@ -6616,7 +6627,18 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "x Vor-Parallestudium (Transponieren durch mehrere Tonarten) zum Finale des hmoll Sonate!\n=======\nx Pre-parallel study (transposition through several keys) to the final of the b-minor sonata!"
+                "value": "Transcription: Vor-Parallestudium (Transponieren durch mehrere Tonarten) zum Finale des hmoll Sonate!"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161#xywh=1632,2288,4160,1424"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Translation: Pre-parallel study (transposition through several keys) to the final of the b-minor sonata!"
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/161#xywh=1632,2288,4160,1424"
             }
@@ -10534,7 +10556,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Godowsky postcard"
+                "value": "\"Verehrter Herr Galston:\nSoeben bin ich von der Reise zurückgekommen und fand ihre werte Zeilen. Ich freue mich, dass Sie sich für meine Arbeiten an die Chopin Studien interessieren. \nFür chromatische Texten habe ich nur den folgenden Fingersatz:\n[illustration]\nMit herzlichen Grüssen,\nIhr ergebener\nLeopold Godowsky\n====================\nMy esteemed Mr. Galston:\nHaving just returned from a journey, I found your valued lines. I am delighted that you have taken an interest in my work on the Chopin etudes. For chromatic sixths, I have only the following fingering to offer:\n[illustration]     \nWith cordial greetings,\nYour devoted \nLeopold Godowsky\""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260#xywh=656,48,3952,3840"
             },
@@ -10545,7 +10567,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Godowsky postcard detail"
+                "value": "Transcription: Verehrter Herr Galston:\nSoeben bin ich von der Reise zurückgekommen und fand ihre werte Zeilen. Ich freue mich, dass Sie sich für meine Arbeiten an die Chopin Studien interessieren. \nFür chromatische Texten habe ich nur den folgenden Fingersatz:\n[illustration]\nMit herzlichen Grüssen,\nIhr ergebener\nLeopold Godowsky"
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260#xywh=1512,360,2120,1696"
             },
@@ -10556,7 +10578,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Godowsky postcard additional detail"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/260#xywh=1744,2024,1672,1008"
             }
@@ -20405,7 +20427,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Spine title"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1104,0,4184,4000"
             },
@@ -20416,7 +20438,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Spine detail"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=1600,6352,3100,1700"
             },
@@ -20427,7 +20449,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch - Spine note, Extra ill copy"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/498#xywh=2464,7352,1372,776"
             }
