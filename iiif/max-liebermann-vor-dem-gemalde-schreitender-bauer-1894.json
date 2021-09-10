@@ -131,6 +131,26 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "@context": "https://iiif.io/api/presentation/3/context.json",
+          "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations/1",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": ""
+              },
+              "target": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas#xywh=9,5,482,682"
+            }
+          ]
+        }
       ]
     }
   ]
