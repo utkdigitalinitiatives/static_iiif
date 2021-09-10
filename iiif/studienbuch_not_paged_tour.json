@@ -6774,7 +6774,18 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "\"Dieses Studienmaterial mit den Komplexen der Etüde Op 10 No 2 amoll kombinieren. Technische Verwandtschaft\nx x x\n============\nCombine this study material with the issues related to the étude Op 10 No 2 in a-minor. Technical relationship.\nx x x\""
+                "value": "Transcription: Dieses Studienmaterial mit den Komplexen der Etüde Op 10 No 2 amoll kombinieren. Technische Verwandtschaft"
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164#xywh=320,3488,4256,1248"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Translation: Combine this study material with the issues related to the étude Op 10 No 2 in a-minor. Technical relationship.\nx x x\""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/164#xywh=320,3488,4256,1248"
             }
@@ -6832,7 +6843,18 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Die charakteristischen technischen Laufgruppen (z.B. Takte 1-2, 29-32 u.s.w.) zu fortlaufenden Fingerüberungen durch alle 12 Tonarten benützen: Zur Befestigung und Ausbildung des 6 Pianistensinns des Distanzgefühls (in Spannung und Sprung) . \nx x x\n=======\nUse the characteristic technical runs (e.g. measures 1-2, 29-32 etc.) for extended fingering practice through all 12 keys: For the development and establishment of the 6th pianistic sense of distance (in tension and leap).\nx x x"
+                "value": "Transcription: Die charakteristischen technischen Laufgruppen (z.B. Takte 1-2, 29-32 u.s.w.) zu fortlaufenden Fingerüberungen durch alle 12 Tonarten benützen: Zur Befestigung und Ausbildung des 6 Pianistensinns des Distanzgefühls (in Spannung und Sprung)."
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/165#xywh=1712,4864,4160,1440"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/165/annotations/2",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": "Translation: Use the characteristic technical runs (e.g. measures 1-2, 29-32 etc.) for extended fingering practice through all 12 keys: For the development and establishment of the 6th pianistic sense of distance (in tension and leap)."
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/165#xywh=1712,4864,4160,1440"
             }
@@ -17734,7 +17756,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Studienbuch printed page 210 (galston:242)"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/443#xywh=1920,1056,4192,6208"
             }
@@ -18689,7 +18711,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "This tailpiece is printed at the end of the Studienbuch, and also appears in other publications by Bruno Cassirer."
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=1664,1120,4096,6272"
             },
@@ -18700,7 +18722,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "The motif depicts a man with a walking stick and carrying a basket on his back."
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/467#xywh=3880,3360,768,1136"
             }
@@ -18758,7 +18780,7 @@
               "body": {
                 "type": "TextualBody",
                 "language": "en",
-                "value": "Aphorism on Liszt - handwritten by Ferruccio Busoni"
+                "value": ""
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/468#xywh=928,656,4064,7136"
             }
