@@ -19230,6 +19230,17 @@
                 "value": "Studienbuch - Concert Program - November 30, 1919"
               },
               "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=3864,6584,1904,1472"
+            },
+            {
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477/annotations/9",
+              "type": "Annotation",
+              "motivation": "commenting",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "value": ""
+              },
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/178/canvas/477#xywh=1248,240,4768,7840"
             }
           ]
         }
