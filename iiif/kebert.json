@@ -123,6 +123,7 @@
     {
       "@context": "https://iiif.io/api/presentation/3/context.json",
       "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations",
+      "type": "AnnotationPage",
       "items": [
         {
           "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations/1",
