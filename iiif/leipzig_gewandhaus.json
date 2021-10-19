@@ -93,15 +93,15 @@
               "motivation": "painting",
               "body": [
                 {
-                  "id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/3d71f5798ff5dcc9a6048682e2ccd6d5.tif/full/full/0/default.jpg",
+                  "id": "https://iiif.archivelab.org/iiif/gewandhaus-leipzig-gropius-am-f-7544/full/full/0/default.jpg",
                   "type": "Image",
-                  "width": 4000,
-                  "height": 2545,
+                  "width": 3000,
+                  "height": 2065,
                   "format": "image/jpeg",
                   "service": {
-                    "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/3d71f5798ff5dcc9a6048682e2ccd6d5.tif",
+                    "@id": "https://iiif.archivelab.org/iiif/gewandhaus-leipzig-gropius-am-f-7544",
                     "@type": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level1.json"
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 }
               ],
