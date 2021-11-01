@@ -1001,15 +1001,6 @@
       }
     },
     {
-      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/145",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "rfta:145"
-        ]
-      }
-    },
-    {
       "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/146",
       "type": "Manifest",
       "label": {
