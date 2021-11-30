@@ -965,6 +965,15 @@
       }
     },
     {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/168",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:168"
+        ]
+      }
+    },
+    {
       "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/170",
       "type": "Manifest",
       "label": {
