@@ -119,6 +119,15 @@
       }
     },
     {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/27",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:27"
+        ]
+      }
+    },
+    {
       "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/28",
       "type": "Manifest",
       "label": {
