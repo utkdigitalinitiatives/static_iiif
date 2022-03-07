@@ -74,8 +74,8 @@
           "RFTA_Braddock_001_i"
         ]
       },
-      "height": 640,
-      "width": 360,
+      "height": 4827,
+      "width": 3598,
       "items": [
         {
           "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1",
@@ -87,11 +87,20 @@
               "motivation": "painting",
               "body": [
                 {
-                  "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart%3A1\/datastream\/OBJ",
+                  "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~rftaart%3A1~datastream~JP2~view/full/1207,/0/default.jpg",
                   "type": "Image",
-                  "width": 1000,
-                  "height": 1000,
-                  "format": "image\/jpeg"
+                  "width": 1207,
+                  "height": 900,
+                  "format": "image\/jpeg",
+                  "service": [
+                    {
+                      "@id": "https://digital.lib.utk.edu/collections/islandora/object/rftaart%3A1/datastream/OBJ",
+                      "@type": "ImageService2",
+                      "profile": "http://iiif.io/api/image/2/level1.json",
+                      "width": 2569,
+                      "height": 3543
+                    }
+                  ]
                 }
               ],
               "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0"
