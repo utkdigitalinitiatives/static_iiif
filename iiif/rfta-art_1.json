@@ -2,18 +2,15 @@
   "@context": [
     "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
   ],
-  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1",
+  "id": "https:\/\/digital.lib.utk.edu\/static\/iiif\/rfta-art_1.json",
   "type": "Manifest",
   "label": {
     "en": [
       "RFTA_Braddock_001_i"
     ]
   },
-  "summary": {
-    "en": null
-  },
   "metadata": [],
-  "rights": null,
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
   "requiredStatement": {
     "label": {
       "en": [
@@ -21,7 +18,9 @@
       ]
     },
     "value": {
-      "en": null
+      "en": [
+        "Test"
+      ]
     }
   },
   "provider": [
