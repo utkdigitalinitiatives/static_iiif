@@ -87,16 +87,18 @@
               "motivation": "painting",
               "body": [
                 {
-                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/1207,\/0\/default.jpg",
                   "type": "Image",
-                  "width": 4827,
-                  "height": 3598,
+                  "width": 1207,
+                  "height": 900,
                   "format": "image\/jpeg",
-                  "service": {
-                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2",
-                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
-                  }
+                  "service": [
+                    {
+                      "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2",
+                      "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                      "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                    }
+                  ]
                 }
               ],
               "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0"
