@@ -1,1 +1,122 @@
-{"@context":["https:\/\/iiif.io\/api\/presentation\/3\/context.json"],"id":"https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1","type":"Manifest","label":{"en":["RFTA_Braddock_001_i"]},"summary":{"en":null},"metadata":[],"rights":null,"requiredStatement":{"label":{"en":["Provided by"]},"value":{"en":null}},"provider":[{"id":"https:\/\/www.lib.utk.edu\/about\/","type":"Agent","label":{"en":["University of Tennessee, Knoxville. Libraries"]},"homepage":[{"id":"https:\/\/www.lib.utk.edu\/","type":"Text","label":{"en":["University of Tennessee Libraries Homepage"]},"format":"text\/html"}],"logo":[{"id":"https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg","type":"Image","format":"image\/jpeg","width":200,"height":200}]}],"thumbnail":[{"id":"https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/max\/0\/default.jpg","width":4827,"height":3598,"type":"Image","format":"image\/jpeg"}],"items":[{"id":"https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0","type":"Canvas","label":{"none":["RFTA_Braddock_001_i"]},"width":4827,"height":3598,"items":[{"id":"https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1","type":"AnnotationPage","items":[{"id":"https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1\/6226446ad3918","type":"Annotation","motivation":"painting","body":[{"id":"https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/full\/0\/default.jpg","type":"Image","width":4827,"height":3598,"format":"image\/jpeg","service":{"@id":"https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2","@type":"http:\/\/iiif.io\/api\/image\/2\/context.json","profile":"http:\/\/iiif.io\/api\/image\/2\/level2.json"}}],"target":"https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0"}]}]}],"seeAlso":[{"id":"https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart%3A1\/datastream\/MODS","type":"Dataset","label":{"en":["Bibliographic Description in MODS"]},"format":"application\/xml","profile":"http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"}]}
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "RFTA_Braddock_001_i"
+    ]
+  },
+  "summary": {
+    "en": null
+  },
+  "metadata": [],
+  "rights": null,
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": null
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 4827,
+      "height": 3598,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "RFTA_Braddock_001_i"
+        ]
+      },
+      "width": 4827,
+      "height": 3598,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1\/6226446ad3918",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "type": "Image",
+                  "width": 4827,
+                  "height": 3598,
+                  "format": "image\/jpeg",
+                  "service": {
+                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2",
+                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                  }
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart%3A1\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}
