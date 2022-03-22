@@ -1044,6 +1044,33 @@
           "rfta:170"
         ]
       }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/177",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Interview with Paige Braddock, 2022-01-14"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/178",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Interview with Danny Wilson, 2022-01-13"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/179",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Interview with Marshall Ramsey, 2022-01-14"
+        ]
+      }
     }
   ]
 }
