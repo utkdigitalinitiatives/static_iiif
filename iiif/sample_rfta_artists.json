@@ -2,7 +2,7 @@
   "@context": [
     "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
   ],
-  "id": "https:\/\/digital.lib.utk.edu\/static\/iiif\/rfta-art_1.json",
+  "id": "https:\/\/digital.lib.utk.edu\/static/iiif/sample_rfta_artists.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -108,23 +108,37 @@
     },
     {
       "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1",
-      "type": "AnnotationPage",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Interview with Seemona and Daniel Whaley, 2019-09-20"
+        ]
+      },
+      "height": 640,
+      "width": 360,
+      "duration": 364,
       "items": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1\/page\/rftaart%3A1\/6226446ad3918",
-          "type": "Annotation",
-          "motivation": "painting",
-          "body": [
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1\/page\/rfta%3A8",
+          "type": "AnnotationPage",
+          "items": [
             {
-              "id": "https:\/\/dlwork.lib.utk.edu\/exhibits\/BeckyJackson_Braddock_003.mp4",
-              "type": "Video",
-              "width": 640,
-              "height": 360,
-              "duration": 364,
-              "format": "video\/mp4"
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1\/page\/rftaart%3A1\/623a264abe13a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/dlwork.lib.utk.edu\/exhibits\/BeckyJackson_Braddock_003.mp4",
+                  "type": "Video",
+                  "width": 640,
+                  "height": 360,
+                  "duration": 364,
+                  "format": "video\/mp4"
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1"
             }
-          ],
-          "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1"
+          ]
         }
       ]
     }
