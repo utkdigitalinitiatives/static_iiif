@@ -3,6 +3,9 @@
     "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
   ],
   "id": "https:\/\/digital.lib.utk.edu\/static/iiif/sample_rfta_artists.json",
+  "behavior": [
+    "paged"
+  ],
   "type": "Manifest",
   "label": {
     "en": [
