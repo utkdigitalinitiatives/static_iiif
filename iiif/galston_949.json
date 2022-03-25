@@ -1,234 +1,236 @@
 {
-  "@context": [
-    "https://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Studienbuch: page 118"
-    ]
-  },
-  "summary": {
-    "en": [
-      "Detailed commentary on the performance of selected piano works by Bach, Beethoven, Chopin, Liszt and Brahms. This copy includes handwritten notes charting out various concerts that Galston performed as part of his cycle of 40 historical recitals in Germany between 1919 and 1921."
-    ]
-  },
-  "metadata": [
+  "seeAlso": [
     {
+      "profile": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd",
+      "format": "application/xml",
+      "type": "Dataset",
+      "id": "https://digital.lib.utk.edu/collections/islandora/object/galston%3A949/datastream/MODS",
       "label": {
         "en": [
-          "Table of Contents"
-        ]
-      },
-      "value": {
-        "en": [
-          "Vorwort -- Bach -- Beethoven -- Chopin -- Liszt -- Brahms -- Anhang -- Register"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Creators and Contributors"
-        ]
-      },
-      "value": {
-        "en": [
-          "Galston, Gottfried, 1879-1950",
-          "Ebert, K."
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Publisher"
-        ]
-      },
-      "value": {
-        "en": [
-          "Verlag Bruno Cassirer"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Publication Date"
-        ]
-      },
-      "value": {
-        "en": [
-          "1910",
-          "1910"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Form"
-        ]
-      },
-      "value": {
-        "en": [
-          "books"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Extent"
-        ]
-      },
-      "value": {
-        "en": [
-          "26 cm high",
-          "498 pages, spine of book"
-        ]
-      }
-    },
-    {
-      "label": {
-        "en": [
-          "Topic"
-        ]
-      },
-      "value": {
-        "en": [
-          "Music",
-          "Piano music"
+          "Bibliographic Description in MODS"
         ]
       }
     }
   ],
   "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "en": [
-        "University of Tennessee, Knoxville. Libraries"
-      ]
-    }
-  },
-  "provider": [
-    {
-      "id": "https://www.lib.utk.edu/about/",
-      "type": "Agent",
-      "label": {
-        "en": [
-          "University of Tennessee, Knoxville. Libraries"
-        ]
-      },
-      "homepage": [
-        {
-          "id": "https://www.lib.utk.edu/",
-          "type": "Text",
-          "label": {
-            "en": [
-              "University of Tennessee Libraries Homepage"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "logo": [
-        {
-          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "width": 200,
-          "height": 200
-        }
-      ]
-    }
-  ],
-  "thumbnail": [
-    {
-      "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2/info.json",
-      "type": "Image",
-      "format": "image/jpeg",
-      "width": 200,
-      "height": 200
-    }
-  ],
   "items": [
     {
-      "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0",
-      "type": "Canvas",
+      "items": [
+        {
+          "items": [
+            {
+              "body": [
+                {
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level2.json",
+                      "@id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2",
+                      "@type": "http://iiif.io/api/image/2/context.json"
+                    }
+                  ],
+                  "format": "image/jpeg",
+                  "height": 6192,
+                  "width": 8256,
+                  "type": "Image",
+                  "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2/full/full/0/default.jpg"
+                }
+              ],
+              "motivation": "painting",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/page/galston%3A949/611d13371df7a",
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0"
+            }
+          ],
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/page/galston%3A949"
+        }
+      ],
+      "height": 6192,
+      "width": 8256,
+      "annotations": [
+        {
+          "items": [
+            {
+              "body": {
+                "type": "TextualBody",
+                "value": "",
+                "language": "en"
+              },
+              "motivation": "commenting",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations/1",
+              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0#xywh=1624,248,4944,3472"
+            }
+          ],
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations"
+        }
+      ],
       "label": {
         "none": [
           "Studienbuch: page 260"
         ]
       },
-      "width": 8256,
-      "height": 6192,
-      "items": [
-        {
-          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/page/galston%3A949",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/page/galston%3A949/611d13371df7a",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2/full/full/0/default.jpg",
-                  "type": "Image",
-                  "width": 8256,
-                  "height": 6192,
-                  "format": "image/jpeg",
-                  "service": {
-                    "@id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2",
-                    "@type": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                }
-              ],
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0"
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0/annotations/1",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "value": ""
-              },
-              "target": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0#xywh=1624,248,4944,3472"
-            }
-          ]
-        }
-      ]
+      "type": "Canvas",
+      "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949/canvas/0"
     }
   ],
-  "seeAlso": [
+  "summary": {
+    "en": [
+      "Detailed commentary on the performance of selected piano works by Bach, Beethoven, Chopin, Liszt and Brahms. This copy includes handwritten notes charting out various concerts that Galston performed as part of his cycle of 40 historical recitals in Germany between 1919 and 1921."
+    ]
+  },
+  "thumbnail": [
     {
-      "id": "https://digital.lib.utk.edu/collections/islandora/object/galston%3A949/datastream/MODS",
-      "type": "Dataset",
+      "width": 200,
+      "height": 200,
+      "type": "Image",
+      "id": "https://digital.lib.utk.edu/iiif/2/collections~islandora~object~galston%3A949~datastream~JP2/info.json",
+      "format": "image/jpeg"
+    }
+  ],
+  "provider": [
+    {
+      "logo": [
+        {
+          "width": 200,
+          "height": 200,
+          "type": "Image",
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "format": "text/html",
+          "type": "Text",
+          "id": "https://www.lib.utk.edu/",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          }
+        }
+      ],
+      "type": "Agent",
+      "id": "https://www.lib.utk.edu/about/",
       "label": {
         "en": [
-          "Bibliographic Description in MODS"
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    },
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    }
+  },
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "label": {
+    "en": [
+      "Studienbuch: page 118"
+    ]
+  },
+  "type": "Manifest",
+  "id": "https://digital.lib.utk.edu/assemble/manifest/galston/949",
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "Vorwort -- Bach -- Beethoven -- Chopin -- Liszt -- Brahms -- Anhang -- Register"
         ]
       },
-      "format": "application/xml",
-      "profile": "http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      "label": {
+        "en": [
+          "Table of Contents"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Galston, Gottfried, 1879-1950",
+          "Ebert, K."
+        ]
+      },
+      "label": {
+        "en": [
+          "Creators and Contributors"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Verlag Bruno Cassirer"
+        ]
+      },
+      "label": {
+        "en": [
+          "Publisher"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "1910",
+          "1910"
+        ]
+      },
+      "label": {
+        "en": [
+          "Publication Date"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "books"
+        ]
+      },
+      "label": {
+        "en": [
+          "Form"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "26 cm high",
+          "498 pages, spine of book"
+        ]
+      },
+      "label": {
+        "en": [
+          "Extent"
+        ]
+      }
+    },
+    {
+      "value": {
+        "en": [
+          "Music",
+          "Piano music"
+        ]
+      },
+      "label": {
+        "en": [
+          "Topic"
+        ]
+      }
     }
   ]
 }
