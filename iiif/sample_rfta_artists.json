@@ -9,10 +9,76 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "RFTA_Braddock_001_i"
+      "The home of Stacey Adam and Chris Szaton is still standing"
     ]
   },
-  "metadata": [],
+  "summary": {
+    "en": [
+      "Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Paige Braddock"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Wildfires", "Dwellings"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2021"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Form"
+        ]
+      },
+      "value": {
+        "en": [
+          "drawings (visual works)"
+        ]
+      }
+    }
+  ],
   "rights": "http://rightsstatements.org/vocab/InC/1.0/",
   "requiredStatement": {
     "label": {
