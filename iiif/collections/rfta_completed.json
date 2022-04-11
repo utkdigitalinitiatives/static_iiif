@@ -982,12 +982,57 @@
         ]
       }
     },
-        {
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/146",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:146"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/147",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:147"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/149",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:149"
+        ]
+      }
+    },
+    {
       "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/157",
       "type": "Manifest",
       "label": {
         "none": [
           "rfta:157"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/161",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:161"
+        ]
+      }
+    },
+    {
+      "id": "https://digital.lib.utk.edu/assemble/manifest/rfta/163",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "rfta:163"
         ]
       }
     },
