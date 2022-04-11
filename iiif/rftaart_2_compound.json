@@ -194,6 +194,69 @@
           ]
         }
       ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Interview with Charlie Anderson, 2020-05-15"
+        ]
+      },
+      "height": 640,
+      "width": 360,
+      "duration": 3362,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/rfta%3A92",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/rfta%3A92\/61b3703a27a60",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body":
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta%3A92\/datastream\/MP4",
+                  "type": "Video",
+                  "width": 640,
+                  "height": 360,
+                  "duration": 3362,
+                  "format": "video\/mp4"
+                }
+              ,
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/transcript",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/transcript\/61b3703a47f11",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta%3A92\/datastream\/TRANSCRIPT",
+                  "type": "Text",
+                  "format": "text\/vtt",
+                  "label": {
+                    "en": [
+                      "Captions in English"
+                    ]
+                  },
+                  "language": "en"
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2"
+            }
+          ]
+        }
+      ]
     }
   ],
   "seeAlso": [
