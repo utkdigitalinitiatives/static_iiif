@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/collection\/collections\/rfta",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Rising From the Ashes Oral Histories"
+    ]
+  },
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/145",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "McDonald, Karen, 01/26/2017 (?)"
+        ]
+      }
+    }
+  ]
+}
