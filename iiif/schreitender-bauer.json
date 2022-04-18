@@ -1,142 +1,144 @@
 {
-  "@context": [
-    "https://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://digital.lib.utk.edu/static/iiif/scheitender-bauer.json",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Schreitender Bauer By Max Liebermann"
-    ]
-  },
-  "summary": {
-    "en": [
-      "Schreitender Bauer by Max Liebermann, 1894, oil on canvas, 94 x 70 cm. "
-    ]
-  },
-  "metadata": [
-    {
-      "label": {
-        "en": [
-          "Topics"
-        ]
-      },
-      "value": {
-        "en": [
-          "painting"
-        ]
-      }
-    }
-  ],
   "rights": "http://creativecommons.org/publicdomain/mark/1.0/rdf",
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "en": [
-        "WikiMedia Commons: https://commons.wikimedia.org/wiki/File:Schreitender_Bauer_by_Max_Liebermann.jpg"
-      ]
-    }
-  },
-  "provider": [
-    {
-      "id": "https://www.lib.utk.edu/about/",
-      "type": "Agent",
-      "label": {
-        "en": [
-          "University of Tennessee, Knoxville. Libraries"
-        ]
-      },
-      "homepage": [
-        {
-          "id": "https://www.lib.utk.edu/",
-          "type": "Text",
-          "label": {
-            "en": [
-              "University of Tennessee Libraries Homepage"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "logo": [
-        {
-          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "width": 200,
-          "height": 200
-        }
-      ]
-    }
-  ],
-  "thumbnail": [
-    {
-      "id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109/info.json",
-      "type": "Image",
-      "format": "image/jpeg",
-      "width": 200,
-      "height": 200
-    }
-  ],
   "items": [
     {
-      "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas",
-      "type": "Canvas",
-      "width": 1494,
-      "height": 2000,
       "items": [
         {
-          "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas/page",
-          "type": "AnnotationPage",
           "items": [
             {
-              "@context": "https://iiif.io/api/presentation/3/context.json",
-              "id": "https://digital.lib.utk.edu/assemble/manifest/schreitender-bauer/canvas/page/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
               "body": [
                 {
-                  "id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109/full/full/0/default.jpg",
-                  "type": "Image",
-                  "width": 1494,
-                  "height": 2000,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level2.json",
+                      "@id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109",
+                      "@type": "http://iiif.io/api/image/2/context.json"
+                    }
+                  ],
                   "format": "image/jpeg",
-                  "service": {
-                    "@id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109",
-                    "@type": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
+                  "height": 2000,
+                  "width": 1494,
+                  "type": "Image",
+                  "id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109/full/full/0/default.jpg"
                 }
               ],
-              "target": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas"
+              "motivation": "painting",
+              "target": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas",
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/schreitender-bauer/canvas/page/annotation"
             }
-          ]
+          ],
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas/page"
         }
       ],
+      "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas",
+      "width": 1494,
+      "height": 2000,
+      "type": "Canvas",
       "annotations": [
         {
           "@context": "https://iiif.io/api/presentation/3/context.json",
-          "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/annotations",
           "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/annotations",
           "items": [
             {
-              "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/annotations/1",
-              "type": "Annotation",
-              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "language": "en",
-                "value": ""
+                "value": "",
+                "language": "en"
               },
+              "motivation": "commenting",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/annotations/1",
               "target": "https://digital.lib.utk.edu/static/iiif/schreitender-bauer/canvas#xywh=14,-160,1472,1252"
             }
           ]
         }
       ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Schreitender Bauer by Max Liebermann, 1894, oil on canvas, 94 x 70 cm. "
+    ]
+  },
+  "thumbnail": [
+    {
+      "width": 200,
+      "height": 200,
+      "type": "Image",
+      "id": "https://iiif.archivelab.org/iiif/schreitender-bauer-by-max-liebermann_202109/info.json",
+      "format": "image/jpeg"
+    }
+  ],
+  "provider": [
+    {
+      "logo": [
+        {
+          "width": 200,
+          "height": 200,
+          "type": "Image",
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "format": "text/html",
+          "type": "Text",
+          "id": "https://www.lib.utk.edu/",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          }
+        }
+      ],
+      "type": "Agent",
+      "id": "https://www.lib.utk.edu/about/",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "WikiMedia Commons: https://commons.wikimedia.org/wiki/File:Schreitender_Bauer_by_Max_Liebermann.jpg"
+      ]
+    },
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    }
+  },
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "label": {
+    "en": [
+      "Schreitender Bauer By Max Liebermann"
+    ]
+  },
+  "type": "Manifest",
+  "id": "https://digital.lib.utk.edu/static/iiif/scheitender-bauer.json",
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "painting"
+        ]
+      },
+      "label": {
+        "en": [
+          "Topics"
+        ]
+      }
     }
   ]
 }

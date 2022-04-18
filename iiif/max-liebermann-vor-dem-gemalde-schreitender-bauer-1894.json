@@ -1,38 +1,66 @@
 {
-  "@context": [
-    "https://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894.json",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "Max Liebermann Vor Dem Gemälde Schreitender Bauer 1894"
-    ]
-  },
-  "summary": {
-    "en": [
-      "Max Liebermann vor dem Gemälde \"Schreitender Bauer\" taken in Katwijk, 1894"
-    ]
-  },
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "en": [
-        "WikiMedia Commons: https://commons.wikimedia.org/wiki/File:Max_Liebermann_vor_dem_Gemälde_Schreitender_Bauer_1894.jpg"
+  "rights": "http://creativecommons.org/publicdomain/mark/1.0/rdf",
+  "items": [
+    {
+      "items": [
+        {
+          "items": [
+            {
+              "body": [
+                {
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level2.json",
+                      "@id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894",
+                      "@type": "http://iiif.io/api/image/2/context.json"
+                    }
+                  ],
+                  "format": "image/jpeg",
+                  "height": 691,
+                  "width": 500,
+                  "type": "Image",
+                  "id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/full/full/0/default.jpg"
+                }
+              ],
+              "motivation": "painting",
+              "target": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas",
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas/page/annotation"
+            }
+          ],
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas/page"
+        }
+      ],
+      "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas",
+      "width": 500,
+      "height": 691,
+      "type": "Canvas",
+      "annotations": [
+        {
+          "@context": "https://iiif.io/api/presentation/3/context.json",
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations",
+          "items": [
+            {
+              "body": {
+                "type": "TextualBody",
+                "value": "",
+                "language": "en"
+              },
+              "motivation": "commenting",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations/1",
+              "target": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas#xywh=6,-18,486,390"
+            }
+          ]
+        }
       ]
     }
-  },
+  ],
   "metadata": [
     {
-      "label": {
-        "en": [
-          "Topics"
-        ]
-      },
       "value": {
         "en": [
           "Max Liebermann",
@@ -40,118 +68,92 @@
           "Katwijk",
           "painting"
         ]
+      },
+      "label": {
+        "en": [
+          "Topics"
+        ]
       }
     },
     {
-      "label": {
-        "en": [
-          "Date"
-        ]
-      },
       "value": {
         "en": [
           "1894"
         ]
+      },
+      "label": {
+        "en": [
+          "Date"
+        ]
       }
     }
   ],
-  "rights": "http://creativecommons.org/publicdomain/mark/1.0/rdf",
+  "summary": {
+    "en": [
+      "Max Liebermann vor dem Gem\u00e4lde \"Schreitender Bauer\" taken in Katwijk, 1894"
+    ]
+  },
+  "thumbnail": [
+    {
+      "width": 200,
+      "height": 200,
+      "type": "Image",
+      "id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/info.json",
+      "format": "image/jpeg"
+    }
+  ],
   "provider": [
     {
-      "id": "https://www.lib.utk.edu/about/",
-      "type": "Agent",
-      "label": {
-        "en": [
-          "University of Tennessee, Knoxville. Libraries"
-        ]
-      },
+      "logo": [
+        {
+          "width": 200,
+          "height": 200,
+          "type": "Image",
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "format": "image/jpeg"
+        }
+      ],
       "homepage": [
         {
-          "id": "https://www.lib.utk.edu/",
+          "format": "text/html",
           "type": "Text",
+          "id": "https://www.lib.utk.edu/",
           "label": {
             "en": [
               "University of Tennessee Libraries Homepage"
             ]
-          },
-          "format": "text/html"
+          }
         }
       ],
-      "logo": [
-        {
-          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "width": 200,
-          "height": 200
-        }
-      ]
+      "type": "Agent",
+      "id": "https://www.lib.utk.edu/about/",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      }
     }
   ],
-  "thumbnail": [
-    {
-      "id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/info.json",
-      "type": "Image",
-      "format": "image/jpeg",
-      "width": 200,
-      "height": 200
-    }
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
   ],
-  "items": [
-    {
-      "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas",
-      "type": "Canvas",
-      "width": 500,
-      "height": 691,
-      "items": [
-        {
-          "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas/page",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "@context": "https://iiif.io/api/presentation/3/context.json",
-              "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas/page/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": [
-                {
-                  "id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/full/full/0/default.jpg",
-                  "type": "Image",
-                  "width": 500,
-                  "height": 691,
-                  "format": "image/jpeg",
-                  "service": {
-                    "@id": "https://iiif.archivelab.org/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894",
-                    "@type": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                }
-              ],
-              "target": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas"
-            }
-          ]
-        }
-      ],
-      "annotations": [
-        {
-          "@context": "https://iiif.io/api/presentation/3/context.json",
-          "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations",
-          "type": "AnnotationPage",
-          "items": [
-            {
-              "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/annotations/1",
-              "type": "Annotation",
-              "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "value": ""
-              },
-              "target": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894/canvas#xywh=6,-18,486,390"
-            }
-          ]
-        }
+  "label": {
+    "en": [
+      "Max Liebermann Vor Dem Gema\u0308lde Schreitender Bauer 1894"
+    ]
+  },
+  "type": "Manifest",
+  "id": "https://digital.lib.utk.edu/static/iiif/max-liebermann-vor-dem-gemalde-schreitender-bauer-1894.json",
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "WikiMedia Commons: https://commons.wikimedia.org/wiki/File:Max_Liebermann_vor_dem_Gem\u00e4lde_Schreitender_Bauer_1894.jpg"
+      ]
+    },
+    "label": {
+      "en": [
+        "Attribution"
       ]
     }
-  ]
+  }
 }

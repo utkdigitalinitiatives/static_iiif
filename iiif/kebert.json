@@ -1,142 +1,144 @@
 {
-  "@context": [
-    "https://iiif.io/api/presentation/3/context.json"
-  ],
-  "id": "https://digital.lib.utk.edu/static/iiif/kebert.json",
-  "type": "Manifest",
-  "label": {
-    "en": [
-      "KarlEbert_ZeitschriftFürBücherfreunde_Ser2V9-1_1917-18"
-    ]
-  },
-  "summary": {
-    "en": [
-      "Advertisement for Karl Ebert, bookbinder, Munich, Germany"
-    ]
-  },
-  "metadata": [
-    {
-      "label": {
-        "en": [
-          "Topics"
-        ]
-      },
-      "value": {
-        "en": [
-          "Ebert Bookbinder Munich"
-        ]
-      }
-    }
-  ],
   "rights": "http://rightsstatements.org/vocab/UND/1.0/",
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Attribution"
-      ]
-    },
-    "value": {
-      "en": [
-        "Digitized by University of California, via HathiTrust https://hdl.handle.net/2027/uc1.c2574827?urlappend=%3Bseq=321"
-      ]
-    }
-  },
-  "provider": [
-    {
-      "id": "https://www.lib.utk.edu/about/",
-      "type": "Agent",
-      "label": {
-        "en": [
-          "University of Tennessee, Knoxville. Libraries"
-        ]
-      },
-      "homepage": [
-        {
-          "id": "https://www.lib.utk.edu/",
-          "type": "Text",
-          "label": {
-            "en": [
-              "University of Tennessee Libraries Homepage"
-            ]
-          },
-          "format": "text/html"
-        }
-      ],
-      "logo": [
-        {
-          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
-          "type": "Image",
-          "format": "image/jpeg",
-          "width": 200,
-          "height": 200
-        }
-      ]
-    }
-  ],
-  "thumbnail": [
-    {
-      "id": "https://iiif.archivelab.org/iiif/KEbert/info.json",
-      "type": "Image",
-      "format": "image/jpeg",
-      "width": 200,
-      "height": 200
-    }
-  ],
   "items": [
     {
-      "id": "https://digital.lib.utk.edu/static/iiif/kebert/canvas",
-      "type": "Canvas",
-      "width": 2345,
-      "height": 3415,
       "items": [
         {
-          "id": "https://digital.lib.utk.edu/static/iiif/kebert/canvas/page",
-          "type": "AnnotationPage",
           "items": [
             {
-              "@context": "https://iiif.io/api/presentation/3/context.json",
-              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas/page/annotation",
-              "type": "Annotation",
-              "motivation": "painting",
               "body": [
                 {
-                  "id": "https://iiif.archivelab.org/iiif/KEbert/full/full/0/default.jpg",
-                  "type": "Image",
-                  "width": 2345,
-                  "height": 3415,
+                  "service": [
+                    {
+                      "profile": "http://iiif.io/api/image/2/level2.json",
+                      "@id": "https://iiif.archivelab.org/iiif/KEbert",
+                      "@type": "http://iiif.io/api/image/2/context.json"
+                    }
+                  ],
                   "format": "image/jpeg",
-                  "service": {
-                    "@id": "https://iiif.archivelab.org/iiif/KEbert",
-                    "@type": "http://iiif.io/api/image/2/context.json",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
+                  "height": 3415,
+                  "width": 2345,
+                  "type": "Image",
+                  "id": "https://iiif.archivelab.org/iiif/KEbert/full/full/0/default.jpg"
                 }
               ],
-              "target": "https://digital.lib.utk.edu/static/iiif/kebert/canvas"
+              "motivation": "painting",
+              "target": "https://digital.lib.utk.edu/static/iiif/kebert/canvas",
+              "@context": "https://iiif.io/api/presentation/3/context.json",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/assemble/manifest/galston/694/canvas/page/annotation"
             }
-          ]
+          ],
+          "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/kebert/canvas/page"
         }
       ],
+      "id": "https://digital.lib.utk.edu/static/iiif/kebert/canvas",
+      "width": 2345,
+      "height": 3415,
+      "type": "Canvas",
       "annotations": [
         {
           "@context": "https://iiif.io/api/presentation/3/context.json",
-          "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations",
           "type": "AnnotationPage",
+          "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations",
           "items": [
             {
-              "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations/1",
-              "type": "Annotation",
-              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "language": "en",
-                "value": ""
+                "value": "",
+                "language": "en"
               },
+              "motivation": "commenting",
+              "type": "Annotation",
+              "id": "https://digital.lib.utk.edu/static/iiif/kebert/annotations/1",
               "target": "https://digital.lib.utk.edu/static/iiif/kebert/canvas#xywh=918,1439,1350,1975"
             }
           ]
         }
       ]
+    }
+  ],
+  "summary": {
+    "en": [
+      "Advertisement for Karl Ebert, bookbinder, Munich, Germany"
+    ]
+  },
+  "thumbnail": [
+    {
+      "width": 200,
+      "height": 200,
+      "type": "Image",
+      "id": "https://iiif.archivelab.org/iiif/KEbert/info.json",
+      "format": "image/jpeg"
+    }
+  ],
+  "provider": [
+    {
+      "logo": [
+        {
+          "width": 200,
+          "height": 200,
+          "type": "Image",
+          "id": "https://utkdigitalinitiatives.github.io/iiif-level-0/ut_libraries_centered/full/full/0/default.jpg",
+          "format": "image/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "format": "text/html",
+          "type": "Text",
+          "id": "https://www.lib.utk.edu/",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          }
+        }
+      ],
+      "type": "Agent",
+      "id": "https://www.lib.utk.edu/about/",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "value": {
+      "en": [
+        "Digitized by University of California, via HathiTrust https://hdl.handle.net/2027/uc1.c2574827?urlappend=%3Bseq=321"
+      ]
+    },
+    "label": {
+      "en": [
+        "Attribution"
+      ]
+    }
+  },
+  "@context": [
+    "https://iiif.io/api/presentation/3/context.json"
+  ],
+  "label": {
+    "en": [
+      "KarlEbert_ZeitschriftF\u00fcrB\u00fccherfreunde_Ser2V9-1_1917-18"
+    ]
+  },
+  "type": "Manifest",
+  "id": "https://digital.lib.utk.edu/static/iiif/kebert.json",
+  "metadata": [
+    {
+      "value": {
+        "en": [
+          "Ebert Bookbinder Munich"
+        ]
+      },
+      "label": {
+        "en": [
+          "Topics"
+        ]
+      }
     }
   ]
 }
