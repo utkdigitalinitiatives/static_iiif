@@ -1,0 +1,23 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/collection\/collections\/cdf_compliance",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Children's Defense Fund Testing"
+    ]
+  },
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/cdf\/10402",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Child Advocacy Ministry: Growing Up"
+        ]
+      }
+    }
+  ]
+}
