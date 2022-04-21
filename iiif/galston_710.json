@@ -1,0 +1,215 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/710",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Photograph of Gottfried Galston at piano"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Photograph taken of Galston at approximately age 23 by Elliot & Fry. The date is handwritten on the reverse, \"ca. 1902\", which coincides with concert tours given by Galston in London."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "circa 1902",
+          "",
+          "1902"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Format"
+        ]
+      },
+      "value": {
+        "en": [
+          "photographs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Portraits",
+          "Musicians",
+          "Piano"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place"
+        ]
+      },
+      "value": {
+        "en": [
+          "London"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Photograph taken of Galston at approximately age 23 by Elliot & Fry. The date is handwritten on the reverse, \"ca. 1902\", which coincides with concert tours given by Galston in London."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Language"
+        ]
+      },
+      "value": {
+        "en": [
+          "No linguistic content"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Photographer"
+        ]
+      },
+      "value": {
+        "en": [
+          "Elliott & Fry"
+        ]
+      }
+    }
+  ],
+  "rights": "http:\/\/rightsstatements.org\/vocab\/NKC\/1.0\/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A710~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 5941,
+      "height": 7014,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/710\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Photograph of Gottfried Galston at piano"
+        ]
+      },
+      "width": 5941,
+      "height": 7014,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/710\/canvas\/0\/page\/galston%3A710",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/710\/canvas\/0\/page\/galston%3A710\/623dc5dedb3b4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A710~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "type": "Image",
+                  "width": 5941,
+                  "height": 7014,
+                  "format": "image\/jpeg",
+                  "service": {
+                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A710~datastream~JP2",
+                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                  }
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/710\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/galston%3A710\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}

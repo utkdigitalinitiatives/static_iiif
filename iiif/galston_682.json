@@ -1,0 +1,179 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/682",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Portrait of Gottfried Galston during WWI"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Photograph postcard of Gottfried Galston, believed to have been taken ca. 1916, when he served as a Lieutenant in the Austrian Cavalry in World War I."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "circa 1916",
+          "circa 1916"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Format"
+        ]
+      },
+      "value": {
+        "en": [
+          "postcards",
+          "photographs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Portraits",
+          "Cavalry",
+          "World War, 1914-1918"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Photograph postcard of Gottfried Galston, believed to have been taken ca. 1916, when he served as a Lieutenant in the Austrian Cavalry in World War I."
+        ]
+      }
+    }
+  ],
+  "rights": "http:\/\/rightsstatements.org\/vocab\/UND\/1.0\/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A682~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 3640,
+      "height": 5623,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/682\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Portrait of Gottfried Galston during WWI"
+        ]
+      },
+      "width": 3640,
+      "height": 5623,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/682\/canvas\/0\/page\/galston%3A682",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/682\/canvas\/0\/page\/galston%3A682\/623dc5bb4f892",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A682~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "type": "Image",
+                  "width": 3640,
+                  "height": 5623,
+                  "format": "image\/jpeg",
+                  "service": {
+                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A682~datastream~JP2",
+                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                  }
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/682\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/galston%3A682\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}
