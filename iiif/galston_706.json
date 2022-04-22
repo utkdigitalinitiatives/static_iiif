@@ -2,7 +2,7 @@
   "@context": [
     "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
   ],
-  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/706",
+  "id": "https:\/\/digital.lib.utk.edu\/static\/iiif\/galston_706.json",
   "type": "Manifest",
   "label": {
     "en": [
