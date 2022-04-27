@@ -1,0 +1,201 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/static\/iiif\/galston_680.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Studio portrait of Gottfried Galston by Eugene Smith, 1912"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Photograph taken in Munich, Germany, with ornamental arched border incorporating the text \"Gottfried Galston\" and a signature. A handwritten note on the reverse attributes the photograph to Eugene Smith, March 1912 (?). Note that Eugene Smith is also known as Frank Eugene and Frank Eugene Smith."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "circa 1912",
+          "circa 1912"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Format"
+        ]
+      },
+      "value": {
+        "en": [
+          "photographs"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Portraits",
+          "Musicians"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place"
+        ]
+      },
+      "value": {
+        "en": [
+          "Munich"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Photograph taken in Munich, Germany, with ornamental arched border incorporating the text \"Gottfried Galston\" and a signature. A handwritten note on the reverse attributes the photograph to Eugene Smith, March 1912 (?). Note that Eugene Smith is also known as Frank Eugene and Frank Eugene Smith."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Photographer"
+        ]
+      },
+      "value": {
+        "en": [
+          "Eugene, Frank, 1865-1936"
+        ]
+      }
+    }
+  ],
+  "rights": "http:\/\/rightsstatements.org\/vocab\/NoC-US\/1.0\/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": [
+        "University of Tennessee, Knoxville. Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A680~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 5600,
+      "height": 7091,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/680\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Studio portrait of Gottfried Galston by Eugene Smith, 1912"
+        ]
+      },
+      "width": 5600,
+      "height": 7091,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/680\/canvas\/0\/page\/galston%3A680",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/680\/canvas\/0\/page\/galston%3A680\/623dc5b8f1337",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A680~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "type": "Image",
+                  "width": 5600,
+                  "height": 7091,
+                  "format": "image\/jpeg",
+                  "service": {
+                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~galston%3A680~datastream~JP2",
+                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                  }
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/galston\/680\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/galston%3A680\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}
