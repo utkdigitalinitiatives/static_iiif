@@ -1,0 +1,420 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/collection\/collections\/rftaart",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "RFTA Artists"
+    ]
+  },
+  "behavior": "together",
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_001_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_002_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/3",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_003_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/10",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_010_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/11",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_011_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/4",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_004_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/5",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_005_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/6",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_006_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/7",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_007_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/8",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_008_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/9",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Braddock_009_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/12",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Daniel_001_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/13",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Daniel_002_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/14",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_001_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/15",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_002_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/16",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_003_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/17",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_004_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/18",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_005_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/19",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_006_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/20",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_007_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/21",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_008_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/22",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_009_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/23",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_010_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/24",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_011_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/25",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_012_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/26",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_013_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/27",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_014_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/28",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_015_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/29",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_016_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/30",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_017_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/31",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_018_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/32",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_019_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/33",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Marshall_020_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/34",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_001_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/35",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_002_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/36",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_003_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/37",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_004_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/38",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_005_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/39",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_006_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/40",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_007_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/41",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_008_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/42",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_009_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/43",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_010_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/44",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_011_i"
+        ]
+      }
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/45",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "RFTA_Wilson_012_i"
+        ]
+      }
+    }
+  ]
+}

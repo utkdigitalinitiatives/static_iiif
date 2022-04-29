@@ -1,0 +1,228 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/static/iiif/sample_rfta_artists.json",
+  "behavior": [
+    "paged"
+  ],
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "The home of Stacey Adam and Chris Szaton is still standing"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Stacey Adam and Chris Szaton evacuated and were initially told that their house had burned. But when they were finally allowed to go back in, they realized their home was still standing. The burned-out foundations of their neighbor’s houses surrounded it. They described the destruction as something similar to a war zone."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Paige Braddock"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Wildfires", "Dwellings"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "2021"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Form"
+        ]
+      },
+      "value": {
+        "en": [
+          "drawings (visual works)"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": [
+        "Test"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 4827,
+      "height": 3598,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "RFTA_Braddock_001_i"
+        ]
+      },
+      "width": 4827,
+      "height": 3598,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0\/page\/rftaart%3A1\/6226446ad3918",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2\/full\/full\/0\/default.jpg",
+                  "type": "Image",
+                  "width": 4827,
+                  "height": 3598,
+                  "format": "image\/jpeg",
+                  "service": [
+                    {
+                      "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A1~datastream~JP2",
+                      "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                      "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                    }
+                  ]
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Interview with Seemona and Daniel Whaley, 2019-09-20"
+        ]
+      },
+      "height": 640,
+      "width": 360,
+      "duration": 364,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1\/page\/rfta%3A8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1\/page\/rftaart%3A1\/623a264abe13a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/dlwork.lib.utk.edu\/exhibits\/BeckyJackson_Braddock_003.mp4",
+                  "type": "Video",
+                  "width": 640,
+                  "height": 360,
+                  "duration": 364,
+                  "format": "video\/mp4"
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1\/canvas\/1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart%3A1\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}

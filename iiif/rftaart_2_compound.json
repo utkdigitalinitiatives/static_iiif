@@ -1,0 +1,275 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Leading the way out of the fire"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Something I heard in multiple interviews was worry for visitors who weren\u2019t from the Gatlinburg area. Many tourists were visiting at the time of the fire, several people mentioned fears about those visitors finding their way out with so many roads closed or blocked. Charlie Anderson talked about one of his employees at the rental resort he manages and owns. He said this young man drove his pickup to lead several cars of visitors unfamiliar with the area out a dirt backroad to safety."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Subject"
+        ]
+      },
+      "value": {
+        "en": [
+          "Wildfires",
+          "Automobiles",
+          "Evacuations"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ]
+      },
+      "value": {
+        "en": [
+          "Something I heard in multiple interviews was worry for visitors who weren\u2019t from the Gatlinburg area. Many tourists were visiting at the time of the fire, several people mentioned fears about those visitors finding their way out with so many roads closed or blocked. Charlie Anderson talked about one of his employees at the rental resort he manages and owns. He said this young man drove his pickup to lead several cars of visitors unfamiliar with the area out a dirt backroad to safety."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Artist"
+        ]
+      },
+      "value": {
+        "en": [
+          "Paige Braddock"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Interviewee"
+        ]
+      },
+      "value": {
+        "en": [
+          "Charlie Anderson"
+        ]
+      }
+    }
+  ],
+  "rights": "http:\/\/rightsstatements.org\/vocab\/InC\/1.0\/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Provided by"
+      ]
+    },
+    "value": {
+      "en": null
+    }
+  },
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A2~datastream~JP2\/full\/max\/0\/default.jpg",
+      "width": 4803,
+      "height": 3590,
+      "type": "Image",
+      "format": "image\/jpeg"
+    }
+  ],
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/0",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Leading the way out of the fire"
+        ]
+      },
+      "width": 4803,
+      "height": 3590,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/0\/page\/rftaart%3A2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/0\/page\/rftaart%3A2\/62545447c3379",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A2~datastream~JP2\/full\/full\/0\/default.jpg",
+                "type": "Image",
+                "width": 4803,
+                "height": 3590,
+                "format": "image\/jpeg",
+                "service": [
+                  {
+                    "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart%3A2~datastream~JP2",
+                    "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                    "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+                  }
+                ]
+              },
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/1",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Interview with Charlie Anderson, 1938-2021",
+          "Illustation and Commentary by Paige Braddock"
+        ]
+      },
+      "height": 640,
+      "width": 360,
+      "duration": 364,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/1\/page\/rfta%3A8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/1\/page\/rftaart%3A1\/623a264abe13a",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": [
+                {
+                  "id": "https:\/\/dlwork.lib.utk.edu\/exhibits\/CharlieAnderson_Braddock_002.mp4",
+                  "type": "Video",
+                  "width": 640,
+                  "height": 360,
+                  "duration": 364,
+                  "format": "video\/mp4"
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Interview with Charlie Anderson, 2020-05-15"
+        ]
+      },
+      "height": 640,
+      "width": 360,
+      "duration": 3362,
+      "items": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/rfta%3A92",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/rfta%3A92\/61b3703a27a60",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body":
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta%3A92\/datastream\/MP4",
+                  "type": "Video",
+                  "width": 640,
+                  "height": 360,
+                  "duration": 3362,
+                  "format": "video\/mp4"
+                }
+              ,
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/transcript",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2\/page\/transcript\/61b3703a47f11",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": [
+                {
+                  "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta%3A92\/datastream\/TRANSCRIPT",
+                  "type": "Text",
+                  "format": "text\/vtt",
+                  "label": {
+                    "en": [
+                      "Captions in English"
+                    ]
+                  },
+                  "language": "en"
+                }
+              ],
+              "target": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2\/canvas\/2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart%3A2\/datastream\/MODS",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "Bibliographic Description in MODS"
+        ]
+      },
+      "format": "application\/xml",
+      "profile": "http:\/\/www.loc.gov\/standards\/mods\/v3\/mods-3-5.xsd"
+    }
+  ]
+}
