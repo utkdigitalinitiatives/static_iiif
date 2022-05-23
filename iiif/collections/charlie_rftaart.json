@@ -1,0 +1,148 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/static/iiif/collections/charlie_rftaart.json",
+  "type": "Collection",
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "unordered"
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:12~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:12~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:13~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:13~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "none": [
+      "Items Associated with \"Daniel, Charles R. (Charlie), Jr., 1929-\""
+    ]
+  },
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/12",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "A Salute from Smokey the Bear"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:12\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:12",
+          "label": {
+            "en": [
+              "A Salute from Smokey the Bear"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/13",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Children Ask for Santa's Help"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:13\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:13",
+          "label": {
+            "en": [
+              "Children Ask for Santa's Help"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    }
+  ],
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https:\/\/projectmirador.org\/embed\/?iiif-content=https:\/\/digital.lib.utk.edu\/assemble\/metadata\/contributor\/Daniel,%20Charles%20R.%20(Charlie),%20Jr.,%201929-",
+      "type": "Text",
+      "label": {
+        "en": [
+          "View Collection in Mirador"
+        ]
+      },
+      "format": "text\/html"
+    }
+  ]
+}

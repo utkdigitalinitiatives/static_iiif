@@ -1,0 +1,1240 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/static/iiif/collections/marshall_rftaart.json",
+  "type": "Collection",
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "unordered"
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:14~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:14~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:15~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:15~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:16~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:16~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:17~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:17~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:18~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:18~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:19~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:19~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:20~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:20~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:21~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:21~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:22~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:22~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:23~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:23~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:24~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:24~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:25~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:25~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:26~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:26~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:30~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:30~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:31~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:31~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:32~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:32~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:33~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:33~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rfta:179~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rfta:179~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:46~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:46~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:54~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:54~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:57~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:57~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:68~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:68~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:77~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:77~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:80~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:80~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:81~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:81~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:91~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:91~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:93~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:93~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:94~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:94~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "none": [
+      "Items Associated with \"Ramsey, Marshall\""
+    ]
+  },
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/14",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Chimney Tops 2 Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:14\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:14",
+          "label": {
+            "en": [
+              "The Chimney Tops 2 Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/15",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Perfect Storm"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:15\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:15",
+          "label": {
+            "en": [
+              "The Perfect Storm"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/16",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Smoke Reaches Gatlinburg Valley"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:16\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:16",
+          "label": {
+            "en": [
+              "The Smoke Reaches Gatlinburg Valley"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/17",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Relentless Flames Take Over Gatlinburg"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:17\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:17",
+          "label": {
+            "en": [
+              "Relentless Flames Take Over Gatlinburg"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/18",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Erik Dobell Wakes Up to the Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:18\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:18",
+          "label": {
+            "en": [
+              "Erik Dobell Wakes Up to the Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/19",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Gary Ownby Clears the Road"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:19\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:19",
+          "label": {
+            "en": [
+              "Gary Ownby Clears the Road"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/20",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "First Responders Fight the Fires and Save Lives"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:20\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:20",
+          "label": {
+            "en": [
+              "First Responders Fight the Fires and Save Lives"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/21",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Russell Biven Reports the Local Disaster"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:21\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:21",
+          "label": {
+            "en": [
+              "Russell Biven Reports the Local Disaster"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/22",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Rain Comes"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:22\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:22",
+          "label": {
+            "en": [
+              "The Rain Comes"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/23",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Mountain Tough"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:23\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:23",
+          "label": {
+            "en": [
+              "Mountain Tough"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/24",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Bob Sweeney Prays"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:24\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:24",
+          "label": {
+            "en": [
+              "Bob Sweeney Prays"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/25",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:25\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:25",
+          "label": {
+            "en": [
+              "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/26",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Charlie Anderson Returns to the Remains of His Resort"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:26\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:26",
+          "label": {
+            "en": [
+              "Charlie Anderson Returns to the Remains of His Resort"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/30",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Equal Opportunity Destroyer"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:30\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:30",
+          "label": {
+            "en": [
+              "Equal Opportunity Destroyer"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/31",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "School Children Want to Return to Normal Life"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:31\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:31",
+          "label": {
+            "en": [
+              "School Children Want to Return to Normal Life"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/32",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Dolly Parton Donates"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:32\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:32",
+          "label": {
+            "en": [
+              "Dolly Parton Donates"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/33",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Remembering the Lives Lost to the Fires"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:33\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:33",
+          "label": {
+            "en": [
+              "Remembering the Lives Lost to the Fires"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/179",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Interview with Marshall Ramsey, 2022-01-14"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta:179\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/rfta.lib.utk.edu\/interviews\/object\/marshall-ramsey-2022-01-14",
+          "label": {
+            "en": [
+              "Interview with Marshall Ramsey, 2022-01-14"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/46",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Susan Melchor's Evacuation and Return"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:46\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:46",
+          "label": {
+            "en": [
+              "Susan Melchor's Evacuation and Return"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/54",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Praying"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:54\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:54",
+          "label": {
+            "en": [
+              "Praying"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/57",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Like a War Zone"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:57\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:57",
+          "label": {
+            "en": [
+              "Like a War Zone"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/68",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Close to Home"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:68\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:68",
+          "label": {
+            "en": [
+              "Close to Home"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/77",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Bob Sweeney Prays"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:77\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:77",
+          "label": {
+            "en": [
+              "Bob Sweeney Prays"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/80",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Charlie Anderson Returns to the Remains of His Resort"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:80\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:80",
+          "label": {
+            "en": [
+              "Charlie Anderson Returns to the Remains of His Resort"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/81",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Equal Opportunity Destroyer"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:81\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:81",
+          "label": {
+            "en": [
+              "Equal Opportunity Destroyer"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/91",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Russell Biven Reports the Local Disaster"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:91\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:91",
+          "label": {
+            "en": [
+              "Russell Biven Reports the Local Disaster"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/93",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Smoke Reaches Gatlinburg Valley"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:93\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:93",
+          "label": {
+            "en": [
+              "The Smoke Reaches Gatlinburg Valley"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/94",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:94\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:94",
+          "label": {
+            "en": [
+              "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    }
+  ],
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https:\/\/projectmirador.org\/embed\/?iiif-content=https:\/\/digital.lib.utk.edu\/assemble\/metadata\/contributor\/Ramsey,%20Marshall",
+      "type": "Text",
+      "label": {
+        "en": [
+          "View Collection in Mirador"
+        ]
+      },
+      "format": "text\/html"
+    }
+  ]
+}

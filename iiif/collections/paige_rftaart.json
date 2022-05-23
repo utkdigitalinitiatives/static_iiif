@@ -1,0 +1,1030 @@
+{
+  "@context": [
+    "https:\/\/iiif.io\/api\/presentation\/3\/context.json"
+  ],
+  "id": "https://digital.lib.utk.edu/static/iiif/collections/paige_rftaart.json",
+  "type": "Collection",
+  "viewingDirection": "left-to-right",
+  "behavior": [
+    "unordered"
+  ],
+  "thumbnail": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:1~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:1~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:2~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:2~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:3~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:3~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:10~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:10~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:11~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:11~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:4~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:4~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:5~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:5~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:6~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:6~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:7~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:7~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:8~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:8~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:9~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:9~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rfta:177~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rfta:177~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:53~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:53~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:56~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:56~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:65~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:65~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:66~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:66~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:76~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:76~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:79~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:79~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:83~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:83~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:85~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:85~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:88~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:88~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:89~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:89~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:96~datastream~TN\/full\/full\/0\/default.jpg",
+      "type": "Image",
+      "format": "image\/jpeg",
+      "service": [
+        {
+          "@id": "https:\/\/digital.lib.utk.edu\/iiif\/2\/collections~islandora~object~rftaart:96~datastream~TN",
+          "@type": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+          "profile": "http:\/\/iiif.io\/api\/image\/2\/level2.json"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "none": [
+      "Items Associated with \"Braddock, Paige\""
+    ]
+  },
+  "items": [
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/1",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Home of Stacey Adam and Chris Szaton is Still Standing"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:1\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:1",
+          "label": {
+            "en": [
+              "The Home of Stacey Adam and Chris Szaton is Still Standing"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Leading the Way Out of the Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:2\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:2",
+          "label": {
+            "en": [
+              "Leading the Way Out of the Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/3",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "A Dog Left Behind"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:3\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:3",
+          "label": {
+            "en": [
+              "A Dog Left Behind"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/10",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Precious Items Left During Evacuation"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:10\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:10",
+          "label": {
+            "en": [
+              "Precious Items Left During Evacuation"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/11",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Escaping the Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:11\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:11",
+          "label": {
+            "en": [
+              "Escaping the Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/4",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:4\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:4",
+          "label": {
+            "en": [
+              "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/5",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "No Children at Recess"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:5\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:5",
+          "label": {
+            "en": [
+              "No Children at Recess"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/6",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Stacey Adam and Chris Szaton Evacuate"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:6\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:6",
+          "label": {
+            "en": [
+              "Stacey Adam and Chris Szaton Evacuate"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/7",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Wildfires"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:7\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:7",
+          "label": {
+            "en": [
+              "The Wildfires"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/8",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "A Family Embraces Their Well-Being"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:8\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:8",
+          "label": {
+            "en": [
+              "A Family Embraces Their Well-Being"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/9",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Effects of the Wildfires on Water and Soil"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:9\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:9",
+          "label": {
+            "en": [
+              "The Effects of the Wildfires on Water and Soil"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/177",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Interview with Paige Braddock, 2022-01-14"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta:177\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/rfta.lib.utk.edu\/interviews\/object\/paige-braddock-2022-01-14",
+          "label": {
+            "en": [
+              "Interview with Paige Braddock, 2022-01-14"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/53",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Bring Me the Animals"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:53\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:53",
+          "label": {
+            "en": [
+              "Bring Me the Animals"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/56",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Backroads"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:56\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:56",
+          "label": {
+            "en": [
+              "Backroads"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/65",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Canceled Recess"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:65\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:65",
+          "label": {
+            "en": [
+              "Canceled Recess"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/66",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "True Value"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:66\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:66",
+          "label": {
+            "en": [
+              "True Value"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/76",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "A Dog Left Behind"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:76\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:76",
+          "label": {
+            "en": [
+              "A Dog Left Behind"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/79",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Leading the Way Out of the Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:79\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:79",
+          "label": {
+            "en": [
+              "Leading the Way Out of the Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/83",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:83\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:83",
+          "label": {
+            "en": [
+              "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/85",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "The Effects of the Wildfires on Water and Soil"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:85\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:85",
+          "label": {
+            "en": [
+              "The Effects of the Wildfires on Water and Soil"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/88",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "No Children at Recess"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:88\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:88",
+          "label": {
+            "en": [
+              "No Children at Recess"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/89",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Precious Items Left During Evacuation"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:89\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:89",
+          "label": {
+            "en": [
+              "Precious Items Left During Evacuation"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    },
+    {
+      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/96",
+      "type": "Manifest",
+      "label": {
+        "none": [
+          "Escaping the Fire"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:96\/datastream\/TN\/view",
+          "height": 200,
+          "width": 200,
+          "type": "Image",
+          "format": "image\/jpeg"
+        }
+      ],
+      "homepage": [
+        {
+          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:96",
+          "label": {
+            "en": [
+              "Escaping the Fire"
+            ]
+          },
+          "type": "Text",
+          "format": "text\/html"
+        }
+      ]
+    }
+  ],
+  "provider": [
+    {
+      "id": "https:\/\/www.lib.utk.edu\/about\/",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "University of Tennessee, Knoxville. Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https:\/\/www.lib.utk.edu\/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "University of Tennessee Libraries Homepage"
+            ]
+          },
+          "format": "text\/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https:\/\/utkdigitalinitiatives.github.io\/iiif-level-0\/ut_libraries_centered\/full\/full\/0\/default.jpg",
+          "type": "Image",
+          "format": "image\/jpeg",
+          "width": 200,
+          "height": 200
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https:\/\/projectmirador.org\/embed\/?iiif-content=https:\/\/digital.lib.utk.edu\/assemble\/metadata\/contributor\/Braddock,%20Paige",
+      "type": "Text",
+      "label": {
+        "en": [
+          "View Collection in Mirador"
+        ]
+      },
+      "format": "text\/html"
+    }
+  ]
+}
