@@ -372,100 +372,10 @@
   ],
   "label": {
     "none": [
-      "Items Associated with \"Wilson, Danny\""
+      "Explore Art by Danny Wilson"
     ]
   },
   "items": [
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/34",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Smoky Classroom Windows"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:34\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:34",
-          "label": {
-            "en": [
-              "Smoky Classroom Windows"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/35",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Return of the Table Mountain Pines"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:35\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:35",
-          "label": {
-            "en": [
-              "Return of the Table Mountain Pines"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/36",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "The Kindness of Strangers"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:36\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:36",
-          "label": {
-            "en": [
-              "The Kindness of Strangers"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
     {
       "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/37",
       "type": "Manifest",
@@ -485,100 +395,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:37",
+          "id": "https://rfta-artists.netlify.app/works/firetruck-warning",
           "label": {
             "en": [
               "Firetruck Warning"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/38",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Animal Rescue"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:38\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:38",
-          "label": {
-            "en": [
-              "Animal Rescue"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/39",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Motorcycle"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:39\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:39",
-          "label": {
-            "en": [
-              "Motorcycle"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/40",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Lone Cabin"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:40\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:40",
-          "label": {
-            "en": [
-              "Lone Cabin"
             ]
           },
           "type": "Text",
@@ -605,370 +425,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:41",
+          "id": "https://rfta-artists.netlify.app/works/news-updates",
           "label": {
             "en": [
               "News Updates"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/42",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Topper"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:42\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:42",
-          "label": {
-            "en": [
-              "Topper"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/43",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Just a Manual"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:43\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:43",
-          "label": {
-            "en": [
-              "Just a Manual"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/44",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Santa Biblia"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:44\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:44",
-          "label": {
-            "en": [
-              "Santa Biblia"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/45",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Church"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:45\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:45",
-          "label": {
-            "en": [
-              "Church"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/178",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Interview with Danny Wilson, 2022-01-13"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta:178\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/rfta.lib.utk.edu\/interviews\/object\/danny-wilson-2022-01-13",
-          "label": {
-            "en": [
-              "Interview with Danny Wilson, 2022-01-13"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/51",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Topper"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:51\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:51",
-          "label": {
-            "en": [
-              "Topper"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/52",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Only a Manual"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:52\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:52",
-          "label": {
-            "en": [
-              "Only a Manual"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/55",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Motorcycle Descent"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:55\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:55",
-          "label": {
-            "en": [
-              "Motorcycle Descent"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/59",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Lone Cabin"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:59\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:59",
-          "label": {
-            "en": [
-              "Lone Cabin"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/63",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Santa Biblia"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:63\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:63",
-          "label": {
-            "en": [
-              "Santa Biblia"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/64",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Return of the Table Mountain Pines"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:64\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:64",
-          "label": {
-            "en": [
-              "Return of the Table Mountain Pines"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/72",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "The Kindness of Strangers"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:72\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:72",
-          "label": {
-            "en": [
-              "The Kindness of Strangers"
             ]
           },
           "type": "Text",
@@ -995,7 +455,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:74",
+          "id": "https://rfta-artists.netlify.app/works/topper",
           "label": {
             "en": [
               "Topper"
@@ -1025,7 +485,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:75",
+          "id": "https://rfta-artists.netlify.app/works/just-a-manual",
           "label": {
             "en": [
               "Just a Manual"
@@ -1055,7 +515,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:78",
+          "id": "https://rfta-artists.netlify.app/works/motorcycle",
           "label": {
             "en": [
               "Motorcycle"
@@ -1085,7 +545,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:82",
+          "id": "https://rfta-artists.netlify.app/works/lone-cabin",
           "label": {
             "en": [
               "Lone Cabin"
@@ -1115,7 +575,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:84",
+          "id": "https://rfta-artists.netlify.app/works/church",
           "label": {
             "en": [
               "Church"
@@ -1145,7 +605,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:86",
+          "id": "https://rfta-artists.netlify.app/works/santa-biblia",
           "label": {
             "en": [
               "Santa Biblia"
@@ -1175,7 +635,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:87",
+          "id": "https://rfta-artists.netlify.app/works/return-of-the-table-mountain-pines",
           "label": {
             "en": [
               "Return of the Table Mountain Pines"
@@ -1205,7 +665,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:90",
+          "id": "https://rfta-artists.netlify.app/works/animal-rescue",
           "label": {
             "en": [
               "Animal Rescue"
@@ -1235,7 +695,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:92",
+          "id": "https://rfta-artists.netlify.app/works/smoky-classroom-windows",
           "label": {
             "en": [
               "Smoky Classroom Windows"
@@ -1265,7 +725,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:95",
+          "id": "https://rfta-artists.netlify.app/works/the-kindness-of-strangers",
           "label": {
             "en": [
               "The Kindness of Strangers"
