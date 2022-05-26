@@ -348,7 +348,7 @@
   ],
   "label": {
     "none": [
-      "Items Associated with \"Ramsey, Marshall\""
+      "Explore Artwork by Marshall Ramsey"
     ]
   },
   "items": [
@@ -371,7 +371,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:14",
+          "id": "https://rfta-artists.netlify.app/works/the-chimney-tops-2-fire",
           "label": {
             "en": [
               "The Chimney Tops 2 Fire"
@@ -401,40 +401,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:15",
+          "id": "https://rfta-artists.netlify.app/works/the-perfect-storm",
           "label": {
             "en": [
               "The Perfect Storm"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/16",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "The Smoke Reaches Gatlinburg Valley"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:16\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:16",
-          "label": {
-            "en": [
-              "The Smoke Reaches Gatlinburg Valley"
             ]
           },
           "type": "Text",
@@ -461,7 +431,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:17",
+          "id": "https://rfta-artists.netlify.app/works/relentless-flames-take-over-gatlinburg",
           "label": {
             "en": [
               "Relentless Flames Take Over Gatlinburg"
@@ -491,7 +461,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:18",
+          "id": "https://rfta-artists.netlify.app/works/erik-dobell-wakes-up-to-the-fire",
           "label": {
             "en": [
               "Erik Dobell Wakes Up to the Fire"
@@ -521,7 +491,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:19",
+          "id": "https://rfta-artists.netlify.app/works/gary-ownby-clears-the-road",
           "label": {
             "en": [
               "Gary Ownby Clears the Road"
@@ -551,40 +521,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:20",
+          "id": "https://rfta-artists.netlify.app/works/first-responders-fight-the-fires-and-save-lives",
           "label": {
             "en": [
               "First Responders Fight the Fires and Save Lives"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/21",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Russell Biven Reports the Local Disaster"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:21\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:21",
-          "label": {
-            "en": [
-              "Russell Biven Reports the Local Disaster"
             ]
           },
           "type": "Text",
@@ -611,7 +551,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:22",
+          "id": "https://rfta-artists.netlify.app/works/the-rain-comes",
           "label": {
             "en": [
               "The Rain Comes"
@@ -641,130 +581,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:23",
+          "id": "https://rfta-artists.netlify.app/works/mountain-tough",
           "label": {
             "en": [
               "Mountain Tough"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/24",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Bob Sweeney Prays"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:24\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:24",
-          "label": {
-            "en": [
-              "Bob Sweeney Prays"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/25",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:25\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:25",
-          "label": {
-            "en": [
-              "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/26",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Charlie Anderson Returns to the Remains of His Resort"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:26\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:26",
-          "label": {
-            "en": [
-              "Charlie Anderson Returns to the Remains of His Resort"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/30",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Equal Opportunity Destroyer"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:30\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:30",
-          "label": {
-            "en": [
-              "Equal Opportunity Destroyer"
             ]
           },
           "type": "Text",
@@ -791,7 +611,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:31",
+          "id": "https://rfta-artists.netlify.app/works/school-children-want-to-return-to-normal-life",
           "label": {
             "en": [
               "School Children Want to Return to Normal Life"
@@ -821,7 +641,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:32",
+          "id": "https://rfta-artists.netlify.app/works/dolly-parton-donates",
           "label": {
             "en": [
               "Dolly Parton Donates"
@@ -851,40 +671,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:33",
+          "id": "https://rfta-artists.netlify.app/works/remembering-the-lives-lost-to-the-fires",
           "label": {
             "en": [
               "Remembering the Lives Lost to the Fires"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/179",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Interview with Marshall Ramsey, 2022-01-14"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta:179\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/rfta.lib.utk.edu\/interviews\/object\/marshall-ramsey-2022-01-14",
-          "label": {
-            "en": [
-              "Interview with Marshall Ramsey, 2022-01-14"
             ]
           },
           "type": "Text",
@@ -911,100 +701,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:46",
+          "id": "https://rfta-artists.netlify.app/works/susan-melchors-evacuation-and-return",
           "label": {
             "en": [
               "Susan Melchor's Evacuation and Return"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/54",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Praying"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:54\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:54",
-          "label": {
-            "en": [
-              "Praying"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/57",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Like a War Zone"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:57\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:57",
-          "label": {
-            "en": [
-              "Like a War Zone"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/68",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Close to Home"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:68\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:68",
-          "label": {
-            "en": [
-              "Close to Home"
             ]
           },
           "type": "Text",
@@ -1031,7 +731,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:77",
+          "id": "https://rfta-artists.netlify.app/works/bob-sweeney-prays",
           "label": {
             "en": [
               "Bob Sweeney Prays"
@@ -1061,7 +761,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:80",
+          "id": "https://rfta-artists.netlify.app/works/charlie-anderson-returns-to-the-remains-of-his-resort",
           "label": {
             "en": [
               "Charlie Anderson Returns to the Remains of His Resort"
@@ -1091,7 +791,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:81",
+          "id": "https://rfta-artists.netlify.app/works/equal-opportunity-destroyer",
           "label": {
             "en": [
               "Equal Opportunity Destroyer"
@@ -1121,7 +821,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:91",
+          "id": "https://rfta-artists.netlify.app/works/russell-biven-reports-the-local-disaster",
           "label": {
             "en": [
               "Russell Biven Reports the Local Disaster"
@@ -1151,7 +851,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:93",
+          "id": "https://rfta-artists.netlify.app/works/the-smoke-reaches-gatlinburg-valley",
           "label": {
             "en": [
               "The Smoke Reaches Gatlinburg Valley"
@@ -1181,7 +881,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:94",
+          "id": "https://rfta-artists.netlify.app/works/stephanie-sweeney-recovers-her-grandmothers-cast-iron-skillets",
           "label": {
             "en": [
               "Stephanie Sweeney Recovers Her Grandmother's Cast Iron Skillets"
