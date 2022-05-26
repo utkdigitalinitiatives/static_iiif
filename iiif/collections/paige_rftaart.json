@@ -288,7 +288,7 @@
   ],
   "label": {
     "none": [
-      "Items Associated with \"Braddock, Paige\""
+      "Explore Art by Paige Braddock"
     ]
   },
   "items": [
@@ -311,190 +311,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:1",
+          "id": "https://rfta-artists.netlify.app/works/the-home-of-stacey-adam-and-chris-szaton-is-still-standing",
           "label": {
             "en": [
               "The Home of Stacey Adam and Chris Szaton is Still Standing"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/2",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Leading the Way Out of the Fire"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:2\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:2",
-          "label": {
-            "en": [
-              "Leading the Way Out of the Fire"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/3",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "A Dog Left Behind"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:3\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:3",
-          "label": {
-            "en": [
-              "A Dog Left Behind"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/10",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Precious Items Left During Evacuation"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:10\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:10",
-          "label": {
-            "en": [
-              "Precious Items Left During Evacuation"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/11",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Escaping the Fire"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:11\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:11",
-          "label": {
-            "en": [
-              "Escaping the Fire"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/4",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:4\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:4",
-          "label": {
-            "en": [
-              "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/5",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "No Children at Recess"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:5\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:5",
-          "label": {
-            "en": [
-              "No Children at Recess"
             ]
           },
           "type": "Text",
@@ -521,7 +341,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:6",
+          "id": "https://rfta-artists.netlify.app/works/stacey-adam-and-chris-szaton-evacuate",
           "label": {
             "en": [
               "Stacey Adam and Chris Szaton Evacuate"
@@ -551,7 +371,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:7",
+          "id": "https://rfta-artists.netlify.app/works/the-wildfires",
           "label": {
             "en": [
               "The Wildfires"
@@ -581,190 +401,10 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:8",
+          "id": "https://rfta-artists.netlify.app/works/a-family-embraces-their-well-being",
           "label": {
             "en": [
               "A Family Embraces Their Well-Being"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/9",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "The Effects of the Wildfires on Water and Soil"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:9\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:9",
-          "label": {
-            "en": [
-              "The Effects of the Wildfires on Water and Soil"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rfta\/177",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Interview with Paige Braddock, 2022-01-14"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rfta:177\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/rfta.lib.utk.edu\/interviews\/object\/paige-braddock-2022-01-14",
-          "label": {
-            "en": [
-              "Interview with Paige Braddock, 2022-01-14"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/53",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Bring Me the Animals"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:53\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:53",
-          "label": {
-            "en": [
-              "Bring Me the Animals"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/56",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Backroads"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:56\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:56",
-          "label": {
-            "en": [
-              "Backroads"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/65",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "Canceled Recess"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:65\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:65",
-          "label": {
-            "en": [
-              "Canceled Recess"
-            ]
-          },
-          "type": "Text",
-          "format": "text\/html"
-        }
-      ]
-    },
-    {
-      "id": "https:\/\/digital.lib.utk.edu\/assemble\/manifest\/rftaart\/66",
-      "type": "Manifest",
-      "label": {
-        "none": [
-          "True Value"
-        ]
-      },
-      "thumbnail": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:66\/datastream\/TN\/view",
-          "height": 200,
-          "width": 200,
-          "type": "Image",
-          "format": "image\/jpeg"
-        }
-      ],
-      "homepage": [
-        {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:66",
-          "label": {
-            "en": [
-              "True Value"
             ]
           },
           "type": "Text",
@@ -791,7 +431,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:76",
+          "id": "https://rfta-artists.netlify.app/works/a-dog-left-behind",
           "label": {
             "en": [
               "A Dog Left Behind"
@@ -821,7 +461,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:79",
+          "id": "https://rfta-artists.netlify.app/works/leading-the-way-out-of-the-fire",
           "label": {
             "en": [
               "Leading the Way Out of the Fire"
@@ -851,7 +491,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:83",
+          "id": "https://rfta-artists.netlify.app/works/the-great-smoky-mountains-church-of-christ-as-a-beacon-of-hope",
           "label": {
             "en": [
               "The Great Smoky Mountains Church of Christ as a Beacon of Hope"
@@ -881,7 +521,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:85",
+          "id": "https://rfta-artists.netlify.app/works/the-effects-of-the-wildfires-on-water-and-soil",
           "label": {
             "en": [
               "The Effects of the Wildfires on Water and Soil"
@@ -911,7 +551,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:88",
+          "id": "https://rfta-artists.netlify.app/works/no-children-at-recess",
           "label": {
             "en": [
               "No Children at Recess"
@@ -941,7 +581,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:89",
+          "id": "https://rfta-artists.netlify.app/works/precious-items-left-during-evacuation",
           "label": {
             "en": [
               "Precious Items Left During Evacuation"
@@ -971,7 +611,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:96",
+          "id": "https://rfta-artists.netlify.app/works/escaping-the-fire",
           "label": {
             "en": [
               "Escaping the Fire"
