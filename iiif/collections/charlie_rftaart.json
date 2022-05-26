@@ -36,7 +36,7 @@
   ],
   "label": {
     "none": [
-      "Items Associated with \"Daniel, Charles R. (Charlie), Jr., 1929-\""
+      "Explore Art by Charlie Daniel"
     ]
   },
   "items": [
@@ -59,7 +59,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:12",
+          "id": "https://rfta-artists.netlify.app/works/a-salute-from-smokey-the-bear",
           "label": {
             "en": [
               "A Salute from Smokey the Bear"
@@ -89,7 +89,7 @@
       ],
       "homepage": [
         {
-          "id": "https:\/\/digital.lib.utk.edu\/collections\/islandora\/object\/rftaart:13",
+          "id": "https://rfta-artists.netlify.app/works/children-ask-for-santas-help",
           "label": {
             "en": [
               "Children Ask for Santa's Help"
